@@ -1,0 +1,338 @@
+<%
+    IEntry entry = ServerList.GetServerById(RequestData("id"));
+    
+    if( entry == null )
+        return "Error: Server ID was not found.";
+%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Server Details - <% Echo(entry.Name); %></title>
+		<link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<table align="center" class="mainTable" border="0" cellpadding="0" cellspacing="0" >
+			<tr>
+				<td class="mainTableLeft">&nbsp;
+				
+				</td>
+				<td class="mainTableBody">
+					<table border="0" cellpadding="0" cellspacing="0" >
+						<tr>
+							<td class="title">&nbsp;
+							
+							</td>
+							<td class="top3">
+                                TOP 3<br>
+							    <%
+							        List<ServerEntry> list = ServerList.GetSortedPublicServers("Rank");
+    							    
+							        for( int i = 0; i < 3 && i < list.Count; i++ )
+							            Echo(list[i].Name + "<br/>");
+							            							            
+							        ServerList.PublicServerList = ServerList.GetSortedPublicServers(sortBy);
+							    %>							
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="titleShadow">
+							</td>
+						</tr>						
+						<tr>
+							<td align="center" colspan="2" class="searchBar">
+								
+							</td>
+						</tr>												
+						<tr>
+							<td colspan="2" class="currentPage">
+							 	 Server Details - <% Echo(entry.Name); %>
+								 <span style="font-size:9px; ">  &nbsp;&nbsp;&nbsp; * = requires patching</span>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="topMenu">
+								<table width="100%" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="halfOffsetInsetMenu"></td>	
+										<td class="halfOffsetInsetMenu"></td>
+										<td class="leftInset"></td>
+										<td class="insetSplit"></td>
+										<td align="center" class="insetItem"><a style="text-decoration:none; color:#66CCFF" href="http://localhost.:1980/home.html">Server list</a></td>
+										<td class="insetSplit"></td>
+										<td align="center" class="insetItemActive"><a style="text-decoration:none; color:#FFFFFF" href="http://localhost.:1980/favorites.html">Favorites</a></td>
+										<td class="insetSplit"></td>
+										<td class="rightInset"></td>	
+										<td class="offsetInsetMenu"></td>		
+										<td class="menuSplit"></td>		
+										<td class="<% string className = GetClass("news"); Echo(className);%> "><a style="text-decoration:none; color:#333333" href="http://www.connectuo.com/index.php?page=home">news</a></td>	
+										<td class="menuSplit"></td>		
+										<td class="<% className = GetClass("top10"); Echo(className);%> "><a style="text-decoration:none; color:#333333" href="http://localhost.:1980/home.html?do=top10">top 10</a></td>		
+										<td class="menuSplit"></td>		
+										<td class="<% className = GetClass("help"); Echo(className);%> "><a style="text-decoration:none; color:#333333" href="http://localhost.:1980/home.html?do=help">help</a></td>	
+										<td class="menuSplit"></td>		
+										<td class="<% className = GetClass("reportabug"); Echo(className);%> "><a style="text-decoration:none; color:#333333" href="http://www.runuo.com/issues/index.php">report a bug</a></td>	
+										<td class="menuSplit"></td>	
+										<td class="<% className = GetClass("unknown"); Echo(className);%> "></td>		
+										<td class="menuSplit"></td>		
+										<td class="offsetInsetMenu"></td>	
+										<td class="offsetInsetMenu"></td>										
+									</tr>
+									<tr>	
+										<td class="subMenuBg" colspan="2"><img vspace="10" src="images/arrow.png" alt="arrow"/></td>
+										<td class="subMenu" colspan="21"></td>											
+									</tr>	
+									<tr>
+										<td colspan="23" class="menuShadow">											
+										</td>										
+									</tr>	
+									<tr>						
+									</tr>	
+									<tr>
+										<td colspan="23" class="contentBg">
+											<table width="100%" border="0" cellpadding="0" cellspacing="0">
+												<tr> 													
+													<td class="contentBg">&nbsp;</td>													
+												</tr>
+												<tr>
+													<td class="contentBg">
+														<!-- Insert row.html per server -->
+														 <table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td width="1" class="titleLeft"></td>
+																<td class="titleHeader" colspan="2">
+																	<%  if(!string.IsNullOrEmpty(entry.PatchUrl))
+																	        Echo("*");
+																	    Echo(entry.Name); 
+																    %> - Rank <% Echo(entry.Rank); %>
+																</td>
+																<td class="titleRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentField">
+																	<% Echo(entry.Description); %>														</td>
+																<td  class="contentFieldLinks">
+																    <table>
+																        <tr>
+																            <td><br />
+																	            <a style="font-style:normal; text-decoration:none; font-weight:bold; color:#FFFFFF" href="<% Echo(entry.PlayLink); %>">play</a><br/>
+																	            <a style="font-style:normal; text-decoration:none; font-weight:bold; color:#FFFFFF" href="<% Echo(entry.VoteLink); %>">vote</a><br/>
+																	            <a style="font-style:normal; text-decoration:none; font-weight:bold; color:#FFFFFF" href="<% Echo(entry.AddToFavoritesLink); %>">add to favorites</a><br/>
+																	            <a style="font-style:normal; text-decoration:none; font-weight:bold; color:#FFFFFF" href="<% Echo(entry.WebsiteLink); %>">website</a><br/>	
+																	            <%  if( !string.IsNullOrEmpty(entry.PatchUrl) )
+																	                    Echo("<a style=\"font-style:normal; text-decoration:none; font-weight:bold; color:#FFFFFF\" href=\"{1}\">reset patches</a><br/>", null, entry.ResetPatchesLink);    
+																	            %>
+																            </td>
+																        </tr>	
+																	</table>															
+															    </td>
+																<td class="contentFieldRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentField" colspan="2">
+																	<center><span style="font-size:9px"></span></center>
+																	<center><img src="<% Echo(entry.Banner); %>" /></center>
+																</td>
+													            <td class="contentFieldRight"></td>
+															</tr>
+															<tr>
+																<td class="contentBottomLeft"></td>
+																<td class="contentBottom" colspan="2"></td>
+																<td class="contentBottomRight"></td>
+															</tr>
+														</table>
+														<div>&nbsp;</div>
+														 <table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td width="1" class="titleLeft"></td>
+																<td class="titleHeader">
+																	<center>Server Stats</center>
+																</td>
+																<td class="titleRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentFieldCentered">
+																	 <table width="100%" border="0">
+                                                                          <tr>
+                                                                            <td class="contentFieldCentered" width="13%" align="center">Type</td>
+                                                                            <td class="contentFieldCentered" width="8%" align="center">Era</td>
+                                                                            <td class="contentFieldCentered" width="13%" align="center">Language</td>
+                                                                            <td class="contentFieldCentered" width="15%" align="center">Online/Avg/Peak</td>
+                                                                            <td class="contentFieldCentered" width="11%" align="center">Votes</td>
+                                                                            <td class="contentFieldCentered" width="17%" align="center">Total Votes </td>
+                                                                            <td class="contentFieldCentered" width="8%" align="center">Out</td>
+                                                                            <td class="contentFieldCentered" width="15%" align="center">Total Out </td>
+                                                                          </tr>
+                                                                          <tr>
+                                                                            <td class="contentFieldCentered" align="center"><% Echo(entry.Type);%></td>
+                                                                            <td class="contentFieldCentered" align="center"><% Echo(entry.Era);%></td>
+                                                                            <td class="contentFieldCentered" align="center"><% Echo(entry.Lang);%></td>
+                                                                            <td class="contentFieldCentered" align="center"><% Echo(entry.CurOnline);%> / <% Echo(entry.AvgOnline);%> / <% Echo(entry.MaxOnline);%></td>
+                                                                            <td class="contentFieldCentered" align="center"><% Echo(entry.Votes);%></td>
+                                                                            <td class="contentFieldCentered" align="center"><% Echo(entry.TotalVotes);%></td>
+                                                                            <td class="contentFieldCentered" align="center"><% Echo(entry.Out);%></td>
+                                                                            <td class="contentFieldCentered" align="center"><% Echo(entry.TotalOut);%></td>
+                                                                          </tr>
+                                                                    </table>
+																</td>																
+																<td class="contentFieldRight"></td>
+															</tr>															
+															<tr>
+																<td class="contentBottomLeft"></td>
+																<td class="contentBottom"></td>
+																<td class="contentBottomRight"></td>
+															</tr>
+														</table>
+														<div>&nbsp;</div>
+														<table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td width="1" class="titleLeft"></td>
+																<td class="titleHeader">
+																	<center>1 day population statistics</center>
+																</td>
+																<td class="titleRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentFieldCentered">
+																	<center><img src="<% Echo(entry.OneDayGraph);%>"/></center>
+																</td>																
+																<td class="contentFieldRight"></td>
+															</tr>
+															<tr>
+																<td class="contentBottomLeft"></td>
+																<td class="contentBottom"></td>
+																<td class="contentBottomRight"></td>
+															</tr>
+														</table>
+														<div>&nbsp;</div>
+														<table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td width="1" class="titleLeft"></td>
+																<td class="titleHeader">
+																	<center>7 day population statistics</center>
+																</td>
+																<td class="titleRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentFieldCentered">
+																	<center><img src="<% Echo(entry.SevenDayGraph);%>"/></center>
+																</td>																
+																<td class="contentFieldRight"></td>
+															</tr>
+															<tr>
+																<td class="contentBottomLeft"></td>
+																<td class="contentBottom"></td>
+																<td class="contentBottomRight"></td>
+															</tr>
+														</table>
+														<div>&nbsp;</div>
+														<table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td width="1" class="titleLeft"></td>
+																<td class="titleHeader">
+																	<center>14 day population statistics</center>
+																</td>
+																<td class="titleRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentFieldCentered">
+																	<center><img src="<% Echo(entry.FourteenDayGraph);%>"/></center>
+																</td>																
+																<td class="contentFieldRight"></td>
+															</tr>
+															<tr>
+																<td class="contentBottomLeft"></td>
+																<td class="contentBottom"></td>
+																<td class="contentBottomRight"></td>
+															</tr>
+														</table>
+														<div>&nbsp;</div>
+														<table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td width="1" class="titleLeft"></td>
+																<td class="titleHeader">
+																	<center>30 day population statistics</center>
+																</td>
+																<td class="titleRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentFieldCentered">
+																	<center><img src="<% Echo(entry.ThirtyDayGraph);%>"/></center>
+																</td>																
+																<td class="contentFieldRight"></td>
+															</tr>
+															<tr>
+																<td class="contentBottomLeft"></td>
+																<td class="contentBottom"></td>
+																<td class="contentBottomRight"></td>
+															</tr>
+														</table>
+														<div>&nbsp;</div>
+														<table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td width="1" class="titleLeft"></td>
+																<td class="titleHeader">
+																	<center>180 day population statistics</center>
+																</td>
+																<td class="titleRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentFieldCentered">
+																	<center><img src="<% Echo(entry.OneEightDayGraph);%>"/></center>
+																</td>																
+																<td class="contentFieldRight"></td>
+															</tr>
+															<tr>
+																<td class="contentBottomLeft"></td>
+																<td class="contentBottom"></td>
+																<td class="contentBottomRight"></td>
+															</tr>
+														</table>
+														<div>&nbsp;</div>
+														<table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td width="1" class="titleLeft"></td>
+																<td class="titleHeader">
+																	<center>365 day population statistics</center>
+																</td>
+																<td class="titleRight"></td>
+															</tr>
+															<tr>
+																<td class="contentFieldLeft"></td>
+																<td class="contentFieldCentered">
+																	<center><img src="<% Echo(entry.YearDayGraph);%>"/></center>
+																</td>																
+																<td class="contentFieldRight"></td>
+															</tr>
+															<tr>
+																<td class="contentBottomLeft"></td>
+																<td class="contentBottom"></td>
+																<td class="contentBottomRight"></td>
+															</tr>
+														</table>
+														<div>&nbsp;</div>														
+													</td>
+												</tr>
+											</table>											
+										</td>
+									</tr>						
+								</table>
+							</td>
+						</tr>						
+					</table>
+				</td>
+				<td class="mainTableRight">&nbsp;
+				
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>

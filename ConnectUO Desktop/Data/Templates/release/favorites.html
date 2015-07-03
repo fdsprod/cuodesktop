@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Favorites</title>
+		<link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<table align="center" class="mainTable" border="0" cellpadding="0" cellspacing="0" >
+			<tr>
+				<td class="mainTableLeft">&nbsp;
+				
+				</td>
+				<td class="mainTableBody">
+					<table border="0" cellpadding="0" cellspacing="0" >
+						<tr>
+							<td class="title">&nbsp;
+							
+							</td>
+							<td class="top3">
+                                TOP 3<br>
+							    <%
+							        List<ServerEntry> list = ServerList.GetSortedPublicServers("Rank");
+    							    
+							        for( int i = 0; i < 3 && i < list.Count; i++ )
+							            Echo(list[i].Name + "<br/>");
+							            							            
+							        ServerList.PublicServerList = ServerList.GetSortedPublicServers(sortBy);
+							    %>							
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="titleShadow">
+							</td>
+						</tr>						
+						<tr>
+							<td align="center" colspan="2" class="searchBar">
+								
+							</td>
+						</tr>												
+						<tr>
+							<td colspan="2" class="currentPage">
+							 	 Favorites
+								 <span style="font-size:9px; ">  &nbsp;&nbsp;&nbsp; * = requires patching</span>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="topMenu">
+								<table width="100%" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="halfOffsetInsetMenu"></td>	
+										<td class="halfOffsetInsetMenu"></td>
+										<td class="leftInset"></td>
+										<td class="insetSplit"></td>
+										<td align="center" class="insetItem"><a style="text-decoration:none; color:#66CCFF" href="http://localhost.:1980/home.html">Server list</a></td>
+										<td class="insetSplit"></td>
+										<td align="center" class="insetItemActive"><a style="text-decoration:none; color:#FFFFFF" href="http://localhost.:1980/favorites.html">Favorites</a></td>
+										<td class="insetSplit"></td>
+										<td class="rightInset"></td>	
+										<td class="offsetInsetMenu"></td>		
+										<td class="menuSplit"></td>		
+										<td class="<% string className = GetClass("news"); Echo(className);%> "><a style="text-decoration:none; color:#333333" href="http://www.connectuo.com/index.php?page=home">news</a></td>	
+										<td class="menuSplit"></td>		
+										<td class="<% className = GetClass("top10"); Echo(className);%> "><a style="text-decoration:none; color:#333333" href="http://localhost.:1980/home.html?do=top10">top 10</a></td>		
+										<td class="menuSplit"></td>		
+										<td class="<% className = GetClass("help"); Echo(className);%> "><a style="text-decoration:none; color:#333333" href="http://localhost.:1980/home.html?do=help">help</a></td>	
+										<td class="menuSplit"></td>		
+										<td class="<% className = GetClass("reportabug"); Echo(className);%> "><a style="text-decoration:none; color:#333333" href="http://www.runuo.com/issues/index.php">report a bug</a></td>	
+										<td class="menuSplit"></td>	
+										<td class="<% className = GetClass("unknown"); Echo(className);%> "></td>		
+										<td class="menuSplit"></td>		
+										<td class="offsetInsetMenu"></td>	
+										<td class="offsetInsetMenu"></td>										
+									</tr>
+									<tr>	
+										<td class="subMenuBg" colspan="2"><img vspace="10" src="images/arrow.png" alt="arrow"/></td>
+										<td class="subMenu" colspan="21"></td>											
+									</tr>	
+									<tr>
+										<td colspan="23" class="menuShadow">											
+										</td>										
+									</tr>	
+									<tr>
+										<%			
+										    List<IEntry> allEntries = new List<IEntry>();
+                                            allEntries.AddRange((IEntry[])Favorites.Customs.ToArray());
+                                            allEntries.AddRange((IEntry[])Favorites.MyFavorites.ToArray());		
+                                            
+                                            int perPage = AppSettings.Current.Get<int>("ServersPerPage");
+									        int pg = 0;
+									        int count = 0;	        
+									        string pageData = "";  
+
+                                            if( allEntries.Count != 0 )
+                                            {      									    
+											    Echo("<td colspan=\"23\" class=\"pageBg\">");
+												    Echo("<table align=\"right\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">");
+													    Echo("<tr>");
+														    Echo("<!-- Insert page.html for each page -->");
+    														
+															    int total = allEntries.Count;
+    															
+															    int pages = total / perPage;
+    											
+															    string pageString = RequestData("page");
+    											
+															    if (pageString.Length == 0 || !int.TryParse(pageString, out pg))
+																    pg = 1;
+    											
+															    if (pg != 0)
+																    pg--;
+    											
+															    count = Math.Min(total - pg * perPage, perPage);
+    											
+															    if (total % perPage > 0)
+																    pages++;
+    											
+															    string pageText = Templates.CurrentTemplate.GetPage("page.html");
+    																									
+															    for (int i = 0; i < pages; i++)
+															    {
+																    string outText = pageText;	
+																    string color = ( i == pg ? "#FFFFFF" : "#000000" );
+																    string pageClass = (i == pg ? "activePage" : "inactivePage");
+    																
+																    int maxToShow = Math.Min(total - i * perPage, perPage);															
+																    int one = i * perPage + 1;
+																    int two = one + maxToShow - 1;
+    											
+																    string outLink = AttachGetData(string.Format("http://localhost.:1980/favorites.html?page={0}", i + 1), "page");
+																    string numbers = string.Format("{0}", i + 1);		
+    																
+																    Replace(ref outText, "~FONTCOLOR~", color);
+																    Replace(ref outText, "~PAGELINK~", outLink);
+																    Replace(ref outText, "~PAGENUMBERS~", numbers);
+																    Replace(ref outText, "~PAGECLASS~", pageClass);
+																    Echo(outText);
+															    }											
+													    Echo("</tr>");
+												    Echo("</table>");
+											    Echo("</td>");
+											}
+										%>									
+									</tr>	
+									<tr>
+										<td colspan="23" class="contentBg">
+											<table width="100%" border="0" cellpadding="0" cellspacing="0">
+												<tr> 													
+													<td class="contentBg">&nbsp;</td>													
+												</tr>
+												<tr>
+													<td class="contentBg">
+														<!-- Insert row.html per server -->
+														<%
+				                                            if( allEntries.Count != 0 )
+                                                            {  
+                                                                int max = pg * perPage + count;
+				
+				                                                for (int i = pg * perPage; i < max; i++)
+				                                                {
+					                                                IEntry entry = allEntries[i];
+					                                                bool custom = entry is CustomEntry;
+					                                                
+					                                                string row = Templates.CurrentTemplate.GetPage("row.html");
+
+                                                                    Replace(ref row, "~REQPATCHING~", string.IsNullOrEmpty(entry.PatchUrl) ? "" : "*");
+					                                                Replace(ref row, "~BANNER~", entry.Banner);
+					                                                Replace(ref row, "~NAME~", entry.Name);
+					                                                Replace(ref row, "~ADDTOFAVORITESLINK~", "http://localhost.:1980/removefavorite?id=" + entry.Id);						                                            
+					                                                Replace(ref row, "~DESCRIPTION~", entry.Description);
+					                                                Replace(ref row, "~MOREINFOLINK~", entry.MoreInfoLink);
+					                                                Replace(ref row, "add to favorites", "remove from favorites");						                                            
+					                                                Replace(ref row, "~PLAYLINK~", entry.PlayLink);
+					                                                Replace(ref row, "~WEBSITELINK~", entry.WebsiteLink);
+						                                            Replace(ref row, "~RANK~", custom ? "" : entry.Rank);
+					                                                Replace(ref row, "~VOTELINK~", entry.VoteLink);
+						                                            
+						                                            if( custom )
+						                                            {
+						                                                Replace(ref row, "- Rank", "");
+						                                                Replace(ref row, "vote", "" );
+						                                                Replace(ref row, "website", "" );
+						                                                Replace(ref row, "details", "" );
+						                                            }					                                                
+
+					                                                pageData += row;
+				                                                }  			
+				                                                
+				                                                Echo(pageData);
+				                                            }
+											            %>
+													</td>
+												</tr>
+											</table>											
+										</td>
+									</tr>						
+								</table>
+							</td>
+						</tr>						
+					</table>
+				</td>
+				<td class="mainTableRight">&nbsp;
+				
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>

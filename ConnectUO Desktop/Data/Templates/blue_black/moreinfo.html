@@ -1,0 +1,81 @@
+<%
+    IEntry entry = ServerList.GetServerById(RequestData("id"));
+    
+    if( entry == null )
+        return "Error: Server ID was not found.";
+%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>ConnectUO Desktop - More Information - <% Echo(entry.Name);%></title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="header"><img align="bottom" src="images/logo.png" width="404" height="58" /><img src="/images/cuoicon.png" width="110" height="96" /></div>
+<div class="menu">
+	<div align="right">
+	  <span>
+	  <a href="http://localhost.:1980/home.html">HOME</a> | 
+	  <a href="http://localhost.:1980/favorites.html">FAVORITES</a> | 
+	  <a href="http://localhost.:1980/help.html">HELP</a></span>
+  </div>
+</div>
+<div class="list">
+<div class="row">
+		<div class="rowheadermiddle">rank&nbsp;<% Echo(entry.Rank);%></div>
+		<div class="blackbar"><img src="%STATUS%" />&nbsp;&nbsp;&nbsp;<% if(!string.IsNullOrEmpty(entry.PatchUrl))
+																	        Echo("*");Echo(entry.Name);%></div>
+		<div class="desc"><center><a href="<% Echo(entry.PlayLink);%>">PLAY</a> | <a href="<% Echo(entry.MoreInfoLink);%>">MORE INFO</a> | <a href="<% Echo(entry.AddToFavoritesLink);%>">ADD TO FAVORITES</a> | <a href="<% Echo(entry.VoteLink);%>">VOTE</a> | <a href="<% Echo(entry.WebsiteLink);%>">WEBSITE</a> <%  if( !string.IsNullOrEmpty(entry.PatchUrl) )
+																	                    Echo("<a href=\"{1}\">reset patches</a><br/>", null, entry.ResetPatchesLink);    
+																	            %></center>
+		<table width="100%" border="0">
+                          <tr>
+                            <td class="statsrightbottom" width="13%" align="center">Type</td>
+                            <td class="statsrightbottom" width="8%" align="center">Era</td>
+                            <td class="statsrightbottom" width="13%" align="center">Language</td>
+                            <td class="statsrightbottom" width="15%" align="center">Online/Avg/Peak</td>
+                            <td class="statsrightbottom" width="11%" align="center">Votes</td>
+                            <td class="statsrightbottom" width="17%" align="center">Total Votes </td>
+                            <td class="statsrightbottom" width="8%" align="center">Out</td>
+                            <td class="statsend" width="15%" align="center">Total Out </td>
+                          </tr>
+                          <tr>
+                            <td class="statsright" align="center"><% Echo(entry.Type);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.Era);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.Lang);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.CurOnline);%> / <% Echo(entry.AvgOnline);%> / <% Echo(entry.MaxOnline);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.Votes);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.TotalVotes);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.Out);%></td>
+                            <td class="stats" align="center"><% Echo(entry.TotalOut);%></td>
+                          </tr>    
+                </table>
+	</div>
+	</div>
+				<div class="rowheadermiddle" align="center">&nbsp;</div>
+				<div class="blackbar"  align="center">1 day population statistics</div>
+				<div class="desc"  align="center"><img src="<% Echo(entry.OneDayGraph);%>"/></div>
+				<div class="rowheadermiddle" align="center">&nbsp;</div>
+				<div class="blackbar"  align="center">7 day population statistics</div>
+				<div class="desc"  align="center"><img src="<% Echo(entry.SevenDayGraph);%>"/></div>
+				<div class="rowheadermiddle" align="center">&nbsp;</div>
+				<div class="blackbar"  align="center">14 day population statistics</div>
+				<div class="desc"  align="center"><img src="<% Echo(entry.FourteenDayGraph);%>"/></div>
+				<div class="rowheadermiddle" align="center">&nbsp;</div>
+				<div class="blackbar"  align="center">30 day population statistics</div>
+				<div class="desc"  align="center"><img src="<% Echo(entry.ThirtyDayGraph);%>"/></div>
+				<div class="rowheadermiddle" align="center">&nbsp;</div>
+				<div class="blackbar"  align="center">180 day population statistics</div>
+				<div class="desc"  align="center"><img src="<% Echo(entry.OneEightDayGraph);%>"/></div>
+				<div class="rowheadermiddle" align="center">&nbsp;</div>
+				<div class="blackbar"  align="center">365 day population statistics</div>
+				<div class="desc"  align="center"><img src="<% Echo(entry.YearDayGraph);%>"/></div>
+				<div class="rowheadermiddle" align="center">&nbsp;</div>
+				<div align="center"><img src="<% Echo(entry.Banner);%>" /></div>
+				<div align="center">&nbsp;</div>
+</div><br />
+</div>
+</body>
+</html>

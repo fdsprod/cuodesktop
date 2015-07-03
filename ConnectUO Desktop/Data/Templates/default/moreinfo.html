@@ -1,0 +1,121 @@
+<%
+    IEntry entry = ServerList.GetServerById(RequestData("id"));
+    
+    if( entry == null )
+        return "Error: Server ID was not found.";
+%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>ConnectUO Desktop - Home - <% if(!string.IsNullOrEmpty(entry.PatchUrl))
+																	        Echo("*");
+																	    Echo(entry.Name);Echo(entry.Name);%></title>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {
+	font-size: 12px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+<body>
+<div align="center"><span class="buttons">This template was made to be viewed with Firefox 2.0 and IE 7.0</span></div>
+<table align="center" width="1024" border="0" cellpadding="0" cellspacing="0"><tr><td class="top" height="18"></td></tr></table>
+  <table align="center" width="1024" border="0" cellpadding="0" cellspacing="0" >  
+  <tr>
+    <td width="25px" class="leftside"></td>
+    <td width="973" >
+		<table class="" width="973" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="111" rowspan="1" valign="bottom" class="backing"><div align="left"><img src="images/cuoicon.png" width="110" height="96" /><img src="images/title.png" width="540" height="85" /><a href="http://localhost.:1980/home.html?page=1"><img alt="" src="images/homebtnactive.gif" width="103" height="20" border="0" /></a><a href="http://localhost.:1980/favorites.html"><img alt="" src="images/favoritesbtn.gif" width="104" height="20" border="0" /></a><a href="http://localhost.:1980/help.html"><img alt="" src="images/helpbtn.gif" width="104" height="20" border="0" /></a></div></td>
+    </tr>  
+    </table>
+    </td>
+    <td width="26px" class="rightside"></td>
+  </tr>
+</table>
+  <table align="center" width="1024" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="25" class="leftside"></td>
+    <td width="973" style="background-image: url(images/serverbacking.gif);background-repeat: repeat-x;background-position: left top;">
+	 <table width="100%" cellpadding="20px" border="0" cellspacing="0">
+	    <tr>
+	      <td>
+			<div align="right">
+			  <div class="rowheader" align="left">
+			  <table width="100%" border="0" cellpadding="1" cellspacing="0">
+                  <tr>
+				    <td width="1%" valign="middle">&nbsp;</td>
+                    <td width="3%" valign="middle"><img src="%STATUS%"/></td>
+                    <td width="96%" valign="middle"> Rank <% Echo(entry.Rank);%> - <% if(!string.IsNullOrEmpty(entry.PatchUrl))
+																	        Echo("*");
+																	    Echo(entry.Name);Echo(entry.Name);%> </td>
+                  </tr>
+                </table></div>
+			  <div class="rowdesc" align="lef">
+			    <table width="100%" border="0">
+                          <tr>
+                            <td class="statsrightbottom" width="13%" align="center">Type</td>
+                            <td class="statsrightbottom" width="8%" align="center">Era</td>
+                            <td class="statsrightbottom" width="13%" align="center">Language</td>
+                            <td class="statsrightbottom" width="15%" align="center">Online/Avg/Peak</td>
+                            <td class="statsrightbottom" width="11%" align="center">Votes</td>
+                            <td class="statsrightbottom" width="17%" align="center">Total Votes </td>
+                            <td class="statsrightbottom" width="8%" align="center">Out</td>
+                            <td class="statsend" width="15%" align="center">Total Out </td>
+                          </tr>
+                          <tr>
+                            <td class="statsright" align="center"><% Echo(entry.Type);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.Era);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.Lang);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.CurOnline);%> / <% Echo(entry.AvgOnline);%> / <% Echo(entry.MaxOnline);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.Votes);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.TotalVotes);%></td>
+                            <td class="statsright" align="center"><% Echo(entry.Out);%></td>
+                            <td class="stats" align="center"><% Echo(entry.TotalOut);%></td>
+                          </tr>
+                          <tr>
+                            <td colspan="8">
+			                        <%  if( !string.IsNullOrEmpty(entry.PatchUrl) )
+	                                        Echo("<a style=\"font-style:normal; text-decoration:none; text-align:center; font-weight:bold; color:#000000\" href=\"{1}\">reset patches</a><br/>", null, entry.ResetPatchesLink);    
+				                    %>                    
+                            </td>
+                          </tr>
+                </table></div><div align="center">&nbsp;</div>
+				<div class="rowheader"  align="center">1 day population statistics</div>
+				<div class="rowdesc"  align="center"><img src="<% Echo(entry.OneDayGraph);%>"/></div>
+				<div class="center" align="center">&nbsp;</div>
+				<div class="rowheader"  align="center">7 day population statistics</div>
+				<div class="rowdesc"  align="center"><img src="<% Echo(entry.SevenDayGraph);%>"/></div>
+				<div class="center" align="center">&nbsp;</div>
+				<div class="rowheader"  align="center">14 day population statistics</div>
+				<div class="rowdesc"  align="center"><img src="<% Echo(entry.FourteenDayGraph);%>"/></div>
+				<div class="center" align="center">&nbsp;</div>
+				<div class="rowheader"  align="center">30 day population statistics</div>
+				<div class="rowdesc"  align="center"><img src="<% Echo(entry.ThirtyDayGraph);%>"/></div>
+				<div class="center" align="center">&nbsp;</div>
+				<div class="rowheader"  align="center">180 day population statistics</div>
+				<div class="rowdesc"  align="center"><img src="<% Echo(entry.OneEightDayGraph);%>"/></div>
+				<div class="center" align="center">&nbsp;</div>
+				<div class="rowheader"  align="center">365 day population statistics</div>
+				<div class="rowdesc"  align="center"><img src="<% Echo(entry.YearDayGraph);%>"/></div>
+				<div class="center" align="center">&nbsp;</div>
+				<div align="center"><img src="<% Echo(entry.Banner);%>" /></div>
+				<div align="center">&nbsp;</div>
+			</div>			
+			<div align="right">&nbsp;</div>			
+			<div align="center"><span class="buttons">Copyright 2007 <strong><a href="http://www.connectuo.com">www.connectuo.com</a></strong> All rights reserved.<br />Template created by Jeff</span> </div></td>
+	    </tr>
+	  </table>
+    </td>
+    <td width="26" class="rightside"></td>
+  </tr>
+</table>
+<table align="center" width="1024" border="0" cellpadding="0" cellspacing="0"><tr><td  height="18" class="bottom"></td></tr></table>
+</body>
+
+</html>

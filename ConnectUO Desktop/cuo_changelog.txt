@@ -1,0 +1,34 @@
+Beta 2.3.1 Hotfix
+================
+-Added some check code for invalid Invoke calls.(As I'm unable to duplicate this issue, I'm hoping this solves this bug)
+
+Beta 2.3
+================
+-Fixed all known patching issues
+-Fixed a bug that caused the patcher to crash on an invalid Invoke call.
+-Finished most of the release template(the details page is now working)
+-Added a Reset Patches link to the details/moreinfo page for servers that have patches.
+
+Beta 2.2
+================
+-Fixed animation patching issues.
+-Added proxy support for downloading the serverlist(This is faily untested, use at your own risk)
+-Lots of small minor fixes.
+
+Beta 2.1
+================
+-Fixed a issue with settings not allowing or showing templates.
+-Added an Opacity section to Settings/Misc.
+-Added support for changing the folder patches are downloaded to.
+
+Beta 2
+================
+Here are some new features:
+
+-New web browser interface
+-Rework of Settings and the Settings form.
+-A new template named 'release', this is a work in progress.
+-Splash screen that displays at startup and while downloading the serverlist(can cancel)
+-Local XML schema support( for faster loadtimes )
+
+As far as what else is different, well between work, easter, family and the rest of life, I kinda just fixed things here and there and really didn't get a chance to keep track of it all.  

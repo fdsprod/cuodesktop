@@ -1,0 +1,91 @@
+public struct PatchFile
+{
+      public string name;
+      public string desc;
+      public string author;
+      public int patchCount;
+      public Patch[] patches;
+}
+
+public struct Patch
+{
+      public int fileID;
+      public int blockID;
+      public int extra;
+      public int length;
+      public byte[] data;
+}
+ 
+enum FileID
+{
+  Map0_mul     = 0x0000;
+  StaIdx0_mul  = 0x0001;
+  Statics0_mul = 0x0002;
+  ArtIdx_mul   = 0x0003;
+  Art_mul      = 0x0004;
+  Anim_idx     = 0x0005;
+  Anim_mul     = 0x0006;
+  SoundIdx_mul = 0x0007;
+  Sound_mul    = 0x0008;
+  TexIdx_mul   = 0x0009;
+  TexMaps_mul  = 0x000A;
+  GumpIdx_mul  = 0x000B;
+  GumpArt_mul  = 0x000C;
+  Multi_idx    = 0x000D;
+  Multi_mul    = 0x000E;
+  Skills_idx   = 0x000F;
+  Skills_mul   = 0x0010;
+  TileData_mul = 0x0011;
+  AnimData_mul = 0x0012;
+  Hues_mul     = 0x0013;
+}
+
+                _patchFile = new PatchFile();
+				int read = reader.ReadInt32();
+				if( read != 0x504f554d )
+				{
+					MessageBox.Show("Invalid MUO file");
+					return;
+				}
+
+				reader.ReadInt32();
+
+				string temp = "";
+				byte b = 0;
+				while( ( b = reader.ReadByte() ) != 0 )
+					temp = temp + ( (char)b );
+
+				_patchFile.name = temp;
+				temp = "";
+				while( ( b = reader.ReadByte() ) != 0 )
+				{
+					temp = temp + ( (char)b );
+				}
+				_patchFile.desc = temp;
+				temp = "";
+				while( ( b = reader.ReadByte() ) != 0 )
+				{
+					temp = temp + ( (char)b );
+				}
+				_patchFile.author = temp;
+				int count = reader.ReadInt32();
+				_patchFile.patchCount = count;
+				_patchFile.patches = new Patch[count];
+				for( int i = 0; i < count; i++ )
+				{
+					Patch patch = new Patch();
+					patch.fileID = reader.ReadInt32();
+					patch.blockID = reader.ReadInt32();
+					patch.extra = reader.ReadInt32();
+					patch.length = reader.ReadInt32();
+					patch.data = reader.ReadBytes(patch.length);
+					_patchFile.patches[i] = patch;
+				}
+
+How data is saved.
+
+read Name
+read desc
+read author
+read count
+for count read each patch

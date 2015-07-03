@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9745F903-416B-4AA5-926C-83A91BA8AD30}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CUODesktop.PatchLib</RootNamespace>
+    <AssemblyName>PatchLib</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin\release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="sharpzlib, Version=0.85.1.271, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animations.cs" />
+    <Compile Include="Art.cs" />
+    <Compile Include="ASCIIFont.cs" />
+    <Compile Include="CalibrationInfo.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="CRC.cs" />
+    <Compile Include="Delegates.cs" />
+    <Compile Include="EventArgs.cs" />
+    <Compile Include="FileIndex.cs" />
+    <Compile Include="Gumps.cs" />
+    <Compile Include="Hues.cs" />
+    <Compile Include="LocationPointer.cs" />
+    <Compile Include="Map.cs" />
+    <Compile Include="Multis.cs" />
+    <Compile Include="Patch.cs" />
+    <Compile Include="Patcher.cs">
+    </Compile>
+    <Compile Include="PatchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatchForm.Designer.cs">
+      <DependentUpon>PatchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatchReader.cs" />
+    <Compile Include="FileIDEnum.cs" />
+    <Compile Include="PatchWriter.cs" />
+    <Compile Include="ProcessStream.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sound.cs" />
+    <Compile Include="StringEntry.cs" />
+    <Compile Include="StringList.cs" />
+    <Compile Include="Textures.cs" />
+    <Compile Include="TileData.cs" />
+    <Compile Include="TileList.cs" />
+    <Compile Include="TileMatrix.cs" />
+    <Compile Include="TileMatrixPatch.cs" />
+    <Compile Include="Unrar.Wrapper.cs" />
+    <Compile Include="Verdata.cs" />
+    <Compile Include="WindowProcessStream.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="PatchForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PatchForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="unrar.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

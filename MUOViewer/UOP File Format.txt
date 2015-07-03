@@ -1,0 +1,41 @@
+public struct PatchFile
+{
+      public int patchCount;
+      public Patch[] patches;
+}
+
+public struct Patch
+{
+      public int fileID;
+      public int blockID;
+      public int extra;
+      public int length;
+      public byte[] data;
+}
+
+enum FileID
+{
+  Map0_mul     = 0x0000;
+  StaIdx0_mul  = 0x0001;
+  Statics0_mul = 0x0002;
+  ArtIdx_mul   = 0x0003;
+  Art_mul      = 0x0004;
+  Anim_idx     = 0x0005;
+  Anim_mul     = 0x0006;
+  SoundIdx_mul = 0x0007;
+  Sound_mul    = 0x0008;
+  TexIdx_mul   = 0x0009;
+  TexMaps_mul  = 0x000A;
+  GumpIdx_mul  = 0x000B;
+  GumpArt_mul  = 0x000C;
+  Multi_idx    = 0x000D;
+  Multi_mul    = 0x000E;
+  Skills_idx   = 0x000F;
+  Skills_mul   = 0x0010;
+  TileData_mul = 0x0011;
+  AnimData_mul = 0x0012;
+  Hues_mul     = 0x0013;
+}
+
+554F5004  -  01000000  -  00000000  -  0C    -    E3C40000  -  1C290000  -  ED000401 - REST
+UOPHeader    PatchCount   Unknown      FileID     BlockID      Length       Extra      DATA

@@ -1,0 +1,144 @@
+.rightside {
+	background-image: url(images/rightside.gif);
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+
+.backing {
+	background-image: url(images/backing.png);
+	background-repeat: repeat-x;
+	background-position: right top;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #000033;
+	border-right-color: #000033;
+	border-bottom-color: #000033;
+	border-left-color: #000033;
+}
+
+.statsdiv {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000033;
+}
+
+.leftside {
+	background-image: url(images/leftside.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+.top {
+	background-image: url(images/topside.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.statsrightbottom {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: none;
+	border-top-color: #000033;
+	border-right-color: #000033;
+	border-bottom-color: #000033;
+	border-left-color: #000033;
+	font-size: 12px;
+	font-style: normal;
+}
+.stats {
+	font-size: 12px;
+}
+.statsright {
+	border-right-width: 1px;
+	border-right-style: dotted;
+	border-right-color: #000033;
+	font-size: 12px;
+}
+
+.statsend {
+	border-bottom-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dotted;
+	border-left-style: none;
+	border-bottom-color: #000033;
+	font-size: 12px;
+}
+
+
+.topheader {
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-top-color: #000033;
+	border-right-color: #000033;
+	border-bottom-color: #000033;
+	border-left-color: #000033;
+}
+
+
+.bottom {
+	background-image: url(images/bottomside.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+a {
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	color: #000033;
+}
+
+.buttontable {
+	border-left-width: 1px;
+	border-left-style: dotted;
+	border-left-color: #000033;
+}
+
+.rowheader {
+	background-image: url(images/serverheader.gif);
+	background-repeat: repeat-x;
+	background-position: left top;
+	border: 1px solid #000066;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	height: 40px;
+	line-height: 40px;
+	text-indent: 5px;
+	vertical-align:middle;
+}
+.pages {
+	border: 1px dashed #000033;
+	background-color: #F5F5F5;
+	font-size: 12px;
+	height:20px;
+	vertical-align:middle;
+}
+
+.rowdesc {
+	background-image: url(images/serverbacking.gif);
+	background-repeat: repeat-x;
+	background-position: left top;
+	border: 1px solid #000066;
+	font-size: 12px;
+}
+.buttons {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #26457F;
+}

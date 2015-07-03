@@ -1,0 +1,5230 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE xml PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<Shards>
+	<Shard id="2">
+		<status>ACTIVE</status>
+		<name>UOGamers: Hybrid</name>
+		<description>Largest and best free shard ever.  This shard is run by the RunUO Team.  Nearly 10 million items.  Over 100,000 active accounts.  This is the real deal.</description>
+		<url>http://www.uogamers.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>login.uogamers.com</address>
+		<port>2593</port>
+		<max_online>1828</max_online>
+		<cur_online>1078</cur_online>
+		<avg_online>1016</avg_online>
+		<votes>324</votes>
+		<total_votes>4177</total_votes>
+		<out>207</out>
+		<total_out>5360</total_out>
+		<rank>1</rank>
+	</Shard>
+	<Shard id="5">
+		<status>ACTIVE</status>
+		<name>Project X</name>
+		<description>UOR to LBR game mechanics, Multiple pvp arenas, Tournaments, Unique duel system, Deathmatches,  Casino, Quests, Professional and experienced staff.</description>
+		<url>http://www.projectx-uo.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>projectx.bounceme.net</address>
+		<port>2593</port>
+		<max_online>236</max_online>
+		<cur_online>93</cur_online>
+		<avg_online>44</avg_online>
+		<votes>154</votes>
+		<total_votes>1112</total_votes>
+		<out>107</out>
+		<total_out>1463</total_out>
+		<rank>2</rank>
+	</Shard>
+	<Shard id="221">
+		<status>ACTIVE</status>
+		<name>UO Legends</name>
+		<description>The biggest Full-ML freeshard over the world.</description>
+		<url>http://www.uolegends.net</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>login.uolegends.net</address>
+		<port>5432</port>
+		<max_online>376</max_online>
+		<cur_online>335</cur_online>
+		<avg_online>237</avg_online>
+		<votes>146</votes>
+		<total_votes>1075</total_votes>
+		<out>350</out>
+		<total_out>1410</total_out>
+		<rank>3</rank>
+	</Shard>
+	<Shard id="567">
+		<status>ACTIVE</status>
+		<name>UO MoonGate II</name>
+		<description>OSI like with many superb add-ons</description>
+		<url>http://www.moongate.pl</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>moongate.servegame.com</address>
+		<port>2593</port>
+		<max_online>118</max_online>
+		<cur_online>95</cur_online>
+		<avg_online>47</avg_online>
+		<votes>69</votes>
+		<total_votes>295</total_votes>
+		<out>34</out>
+		<total_out>162</total_out>
+		<rank>4</rank>
+	</Shard>
+	<Shard id="190">
+		<status>ACTIVE</status>
+		<name>Ethereal Realms</name>
+		<description>Events, Customs, Quests, No Skill Cap, Fast Gains, 375 Stat Cap, No PKs, Paintball, 3 Houses Per Account, Town Housing, Pet Breeding, 10 Follower Slots, Skill Bonus Clothing, Friendly Players, Evil Staff, Dedicated Server, T1, 4gb RAM</description>
+		<url>http://etherealrealms-uo.com/</url>
+		<patchurl>http://www.erfiles.com/me.txt</patchurl>
+		<updateurl>http://etherealrealms-uo.com/patch.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>72.232.64.106</address>
+		<port>2593</port>
+		<max_online>96</max_online>
+		<cur_online>41</cur_online>
+		<avg_online>31</avg_online>
+		<votes>62</votes>
+		<total_votes>1837</total_votes>
+		<out>86</out>
+		<total_out>1946</total_out>
+		<rank>5</rank>
+	</Shard>
+	<Shard id="126">
+		<status>ACTIVE</status>
+		<name>Death Awaits You</name>
+		<description>Many Customs; Evos, Clothes, Wings, Weapons, Monsters, and tons more. Family Shard. Friendly Staff</description>
+		<url>http://www.DeathAwaitsYou.com</url>
+		<patchurl>http://www.deathawaitsyou.com/patchfiles.rar</patchurl>
+		<updateurl>http://www.deathawaitsyou.com/updatesplayercommands.htm</updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>76.166.111.129</address>
+		<port>2593</port>
+		<max_online>71</max_online>
+		<cur_online>45</cur_online>
+		<avg_online>30</avg_online>
+		<votes>60</votes>
+		<total_votes>338</total_votes>
+		<out>42</out>
+		<total_out>377</total_out>
+		<rank>6</rank>
+	</Shard>
+	<Shard id="238">
+		<status>ACTIVE</status>
+		<name>Angel Island</name>
+		<description>Felucca only since 3/2004. Balanced PvP, RP and non-RP events, player driven economy, adv. crafting, an alternative to stat loss, varied PvM, and adv. creature AI. Dedicated and mature staff, creative and loyal playerbase. Brought to you by Adam Ant.</description>
+		<url>http://www.game-master.net</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>tamke.net</address>
+		<port>2593</port>
+		<max_online>116</max_online>
+		<cur_online>70</cur_online>
+		<avg_online>65</avg_online>
+		<votes>52</votes>
+		<total_votes>1151</total_votes>
+		<out>37</out>
+		<total_out>843</total_out>
+		<rank>7</rank>
+	</Shard>
+	<Shard id="245">
+		<status>ACTIVE</status>
+		<name>DefianceUO: Worldwide</name>
+		<description>Largest and oldest successful European network.
+We have UOR and AOS servers, with thousands of daily visitors and the strongest economy making your ingame items worth playing for.</description>
+		<url>http://www.defianceuo.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>213.228.232.22</address>
+		<port>2593</port>
+		<max_online>2159</max_online>
+		<cur_online>456</cur_online>
+		<avg_online>348</avg_online>
+		<votes>48</votes>
+		<total_votes>1838</total_votes>
+		<out>68</out>
+		<total_out>2038</total_out>
+		<rank>8</rank>
+	</Shard>
+	<Shard id="18">
+		<status>ACTIVE</status>
+		<name>Undiscovered Land</name>
+		<description>First Czech RunUO server based on OSI concept runing on lastest release of RunUO 2.0.0 with many customs systems. Samurai Empire, Factions, Ethics and Buff icons enabled. Many tournaments and GM moderated quests. Auto account creation.</description>
+		<url>http://www.undiscoveredland.cz</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>login.undiscoveredland.cz</address>
+		<port>2593</port>
+		<max_online>43</max_online>
+		<cur_online>18</cur_online>
+		<avg_online>9</avg_online>
+		<votes>48</votes>
+		<total_votes>114</total_votes>
+		<out>28</out>
+		<total_out>196</total_out>
+		<rank>9</rank>
+	</Shard>
+	<Shard id="601">
+		<status>ACTIVE</status>
+		<name>In Mani Ylem</name>
+		<description>T2A era style shard with many customizations, but overall a very OSI-style feel. Emphasis on player fame, guilds, economy, and group exploration. New crafting and house deco options, as well as lots of rare creatures to find. 3 houses per account, 6mo decay timer. Come try the best of the old school shards - TUR BRA GER JPN</description>
+		<url>http://www.inmaniylem.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>T2A</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>uo.inmaniylem.com</address>
+		<port>2593</port>
+		<max_online>32</max_online>
+		<cur_online>25</cur_online>
+		<avg_online>21</avg_online>
+		<votes>46</votes>
+		<total_votes>81</total_votes>
+		<out>35</out>
+		<total_out>57</total_out>
+		<rank>10</rank>
+	</Shard>
+	<Shard id="439">
+		<status>ACTIVE</status>
+		<name>HighCastle Halls</name>
+		<description>Felucca/T2A.  Role-play encouraged.  Pushthrough stamina loss removed.  Custom weaving and weedgrowing system.  Uber golems.  Many custom scripts and quests.  Professional, adult staff.</description>
+		<url>http://midkemia.proboards49.com</url>
+		<patchurl>http://www.shenangoscreenprint.com/patch/patch011.txt</patchurl>
+		<updateurl>http://www.shenangoscreenprint.com/patch/patchinfo.html</updateurl>
+		<era>T2A</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>midkemia.no-ip.info</address>
+		<port>2590</port>
+		<max_online>19</max_online>
+		<cur_online>5</cur_online>
+		<avg_online>3</avg_online>
+		<votes>44</votes>
+		<total_votes>383</total_votes>
+		<out>43</out>
+		<total_out>414</total_out>
+		<rank>11</rank>
+	</Shard>
+	<Shard id="129">
+		<status>ACTIVE</status>
+		<name>ABCUO v2.0</name>
+		<description>3 and a half year old world! No Skill Cap (GM All Skills), 305 Stat Cap (330 with scroll) Custom AOS with the good parts of SE and ML. Fast Paced 4/6 PvP. Daily PVM events. Daily PvP Tournaments.</description>
+		<url>http://abcuo.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>abc-uo.servegame.com</address>
+		<port>2593</port>
+		<max_online>113</max_online>
+		<cur_online>59</cur_online>
+		<avg_online>45</avg_online>
+		<votes>43</votes>
+		<total_votes>1694</total_votes>
+		<out>27</out>
+		<total_out>1783</total_out>
+		<rank>12</rank>
+	</Shard>
+	<Shard id="305">
+		<status>ACTIVE</status>
+		<name>Crows Kingdom</name>
+		<description>Canadian Shard,Dedicated Server, No SkillCap,Regs/Tithing,Great Staff,PVP or PVM,Custom Quests,SkillGate and Easy Gains,400 StatCap,5/6,Casino,100% Spawn, ML Crafting,PVP Points Titles and Rewards</description>
+		<url>http://z10.invisionfree.com/Crows_Kingdom/index.php?</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>crowskingdom.no-ip.org</address>
+		<port>2593</port>
+		<max_online>62</max_online>
+		<cur_online>26</cur_online>
+		<avg_online>26</avg_online>
+		<votes>43</votes>
+		<total_votes>578</total_votes>
+		<out>21</out>
+		<total_out>605</total_out>
+		<rank>13</rank>
+	</Shard>
+	<Shard id="194">
+		<status>ACTIVE</status>
+		<name>UODreams</name>
+		<description>The biggest free OSI style shard in Europe.</description>
+		<url>http://www.uodreams.com</url>
+		<patchurl></patchurl>
+		<updateurl>http://www.uodreams.com/index.php</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>gameserver16.gamesnet.it</address>
+		<port>2593</port>
+		<max_online>613</max_online>
+		<cur_online>353</cur_online>
+		<avg_online>237</avg_online>
+		<votes>42</votes>
+		<total_votes>2308</total_votes>
+		<out>33</out>
+		<total_out>2412</total_out>
+		<rank>14</rank>
+	</Shard>
+	<Shard id="158">
+		<status>ACTIVE</status>
+		<name>Vetus-Mundus</name>
+		<description>German RunUO Fun Shard, OSI-like, AoS / SE / ML + more and own features and systems, Skillcap 800 (+25 every 3 months, max. skillcap addition is 100), Statcap 225, with Stat-PS max. 250,  5 maps, only Felucca is PvP and Pk land, shard language is german, but english speakers are welcome. We would be pleased to meet you at our world.</description>
+		<url>http://www.vetus-mundus.de</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>GER</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>shard.vetus-mundus.de</address>
+		<port>2594</port>
+		<max_online>189</max_online>
+		<cur_online>123</cur_online>
+		<avg_online>85</avg_online>
+		<votes>42</votes>
+		<total_votes>987</total_votes>
+		<out>24</out>
+		<total_out>599</total_out>
+		<rank>15</rank>
+	</Shard>
+	<Shard id="1">
+		<status>ACTIVE</status>
+		<name>UOGamers: Divinity</name>
+		<description>This is a T2A era shard run by the RunUO &amp; UOGamers teams.  This shard is the best mix of fun and T2A accuracy you can find today! No neon items, no mounts, no statloss, all &quot;old&quot; houses, great staff, tons of fun events!</description>
+		<url>http://www.uodivinity.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>T2A</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>login.uodivinity.com</address>
+		<port>2593</port>
+		<max_online>350</max_online>
+		<cur_online>79</cur_online>
+		<avg_online>97</avg_online>
+		<votes>39</votes>
+		<total_votes>1261</total_votes>
+		<out>31</out>
+		<total_out>923</total_out>
+		<rank>16</rank>
+	</Shard>
+	<Shard id="86">
+		<status>ACTIVE</status>
+		<name>Age of Avatars</name>
+		<description>over 300+ new items just added - Totaly Custom Shard - Class/Race/Level Custom OWL, Crafts, Arti's - Custopm Dungeons - adding more almost everyday</description>
+		<url>http://www.AgeOfAvatars.com</url>
+		<patchurl>http://www.emeraldisles.us/ztom/patches/files.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>65.34.5.218</address>
+		<port>2593</port>
+		<max_online>29</max_online>
+		<cur_online>27</cur_online>
+		<avg_online>19</avg_online>
+		<votes>31</votes>
+		<total_votes>477</total_votes>
+		<out>35</out>
+		<total_out>783</total_out>
+		<rank>17</rank>
+	</Shard>
+	<Shard id="101">
+		<status>ACTIVE</status>
+		<name>Project Blackrock</name>
+		<description>Sphere/RunUO rebirth of Santiago/Mythik!
+
+RunUO 2.0: AOS/SE/ML Custom bosses/Items/Quests, continuous development.  Tightly knit community. No Trammel, No insta gib guards! Osi Skill caps and a focus on balance. 
+
+Sphere 55i: 2000 Skill cap, UOR based rule set. Rampant PVP. Unique crafting items
+
+5 years of development</description>
+		<url>www.ProjectBlackrock.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>projectblackrock.servegame.org</address>
+		<port>2593</port>
+		<max_online>31</max_online>
+		<cur_online>11</cur_online>
+		<avg_online>17</avg_online>
+		<votes>30</votes>
+		<total_votes>941</total_votes>
+		<out>10</out>
+		<total_out>568</total_out>
+		<rank>18</rank>
+	</Shard>
+	<Shard id="169">
+		<status>ACTIVE</status>
+		<name>Paradise Found</name>
+		<description>Family Shard - No Skill Cap - 325 stats - No PvP - Friendly players and staff.  Welcome to Paradise.</description>
+		<url>www.paradisefounduo.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>24.207.186.180</address>
+		<port>2593</port>
+		<max_online>52</max_online>
+		<cur_online>32</cur_online>
+		<avg_online>23</avg_online>
+		<votes>29</votes>
+		<total_votes>538</total_votes>
+		<out>25</out>
+		<total_out>501</total_out>
+		<rank>19</rank>
+	</Shard>
+	<Shard id="461">
+		<status>ACTIVE</status>
+		<name>Necessary Evil</name>
+		<description>A T2A style shard, with some interesting changes. This is the direction we would have taken UO after 1999. Helpful staff, PvP and stealing encouraged, no secure housing, many other fun changes.</description>
+		<url>http://uo.necevil.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>T2A</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>rpg.necevil.com</address>
+		<port>2593</port>
+		<max_online>77</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>25</avg_online>
+		<votes>27</votes>
+		<total_votes>385</total_votes>
+		<out>17</out>
+		<total_out>462</total_out>
+		<rank>20</rank>
+	</Shard>
+	<Shard id="200">
+		<status>ACTIVE</status>
+		<name>Akara Essex</name>
+		<description>Custom Map, Races, Leveling Armour, Weapons - Items - and Jewelry.  Runic Smith Hammers, Sewing Kits, Fletching Kits.  Custom Ores, Woods, and Leathers.  4 Years Online and Going Strong.  New 3 Megabit Upstream, Adult Run Friendly RolePlaying.  We are the Creators of the Evolution Dragons Script done by Raelis.</description>
+		<url>http://www.akaraessex.com</url>
+		<patchurl>http://www.ezpcllc.com/patchcuo.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>uoessex.servegame.com</address>
+		<port>2590</port>
+		<max_online>25</max_online>
+		<cur_online>11</cur_online>
+		<avg_online>6</avg_online>
+		<votes>24</votes>
+		<total_votes>116</total_votes>
+		<out>10</out>
+		<total_out>175</total_out>
+		<rank>21</rank>
+	</Shard>
+	<Shard id="53">
+		<status>ACTIVE</status>
+		<name>Shazzys Shard</name>
+		<description>900 Skill Cap -- 250 Stat Cap
+Earn your Skills with good gains
+No Uber-No Skill Gates
+Nothing but super game play and fun.
+Custom Resources, Crafting Skills, Creatures and Quests
+A GREAT place for crafters or adventurers alike!
+Adult  Hosts</description>
+		<url>http://www.shazzyshard.org/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>shazzy.no-ip.info</address>
+		<port>2593</port>
+		<max_online>36</max_online>
+		<cur_online>20</cur_online>
+		<avg_online>17</avg_online>
+		<votes>23</votes>
+		<total_votes>205</total_votes>
+		<out>10</out>
+		<total_out>174</total_out>
+		<rank>22</rank>
+	</Shard>
+	<Shard id="59">
+		<status>ACTIVE</status>
+		<name>Sylvan Heart</name>
+		<description>Experience the Heart of UO; Sylvan Heart - What was Sylvan dreams is now Sylvan Heart - SE, RP/restricted PvP. 1200/450, Macroing 24/7. Abundance of custom artwork/special wearables/MOBs/player commands/items and other scripts. NO AUTOREG. Requires Patches.</description>
+		<url>http://www.sylvanheart.co.uk/</url>
+		<patchurl>http://www.sylvanheart.co.uk/newpatches/allfiles.rar</patchurl>
+		<updateurl>http://www.sylvanheart.co.uk/content/view/53/</updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>195.149.63.175</address>
+		<port>2593</port>
+		<max_online>57</max_online>
+		<cur_online>21</cur_online>
+		<avg_online>17</avg_online>
+		<votes>18</votes>
+		<total_votes>801</total_votes>
+		<out>33</out>
+		<total_out>628</total_out>
+		<rank>23</rank>
+	</Shard>
+	<Shard id="134">
+		<status>ACTIVE</status>
+		<name>Even</name>
+		<description>Even ist einer der altesten deutschen Freeshards und baut derzeit auf einem stark modifizierten RunUO Modul auf. Seit uber 5 Jahren hat der Staff versucht Spielern jegliches Spieltyps auf Even ein passendes Ambiente zu liefern. Wir bieten euch ein einzigartiges PvP/Keep System, das standig für Action sorgt. Desweiteren ist so gut wie jeder Dungeon mit sehr viel Liebe zum Detail aufgearbeitet worden und hat seine eigene Rarequest. Auch Even's Workersystem ist einmalig.
+
+</description>
+		<url>http://www.uo-even.de</url>
+		<patchurl>http://www.lazyb.de/dlcounter/count.php?id=even_2_1_full</patchurl>
+		<updateurl>http://www.uo-even.de/site/index.php?get=downloads</updateurl>
+		<era>AOS</era>
+		<type>PvP</type>
+		<lang>GER</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>www.uo-even.de</address>
+		<port>2593</port>
+		<max_online>73</max_online>
+		<cur_online>39</cur_online>
+		<avg_online>25</avg_online>
+		<votes>17</votes>
+		<total_votes>1224</total_votes>
+		<out>7</out>
+		<total_out>380</total_out>
+		<rank>24</rank>
+	</Shard>
+	<Shard id="607">
+		<status>ACTIVE</status>
+		<name>Toxic-Shadows</name>
+		<description>!Open for test! Let us know what we can add for you! New quests new dungeons soon to be custom maps great staff looking for 2 more staff members</description>
+		<url>http://www.freewebs.com/toxic-shadows/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>toxic-shadows.sytes.net</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>1</avg_online>
+		<votes>17</votes>
+		<total_votes>28</total_votes>
+		<out>33</out>
+		<total_out>47</total_out>
+		<rank>25</rank>
+	</Shard>
+	<Shard id="588">
+		<status>ACTIVE</status>
+		<name>Elysia</name>
+		<description>AD&amp;D influenced. 5 races, 11 classes. Features a unique leveling system with multi-classing. ML weapons, ML items. Peerless quests. New art, crafting, quests, pets, spells, houses. Looking for a challenge and something new? Join!</description>
+		<url>http://hem.bredband.net/lembit2/index.htm</url>
+		<patchurl>http://hem.bredband.net/lembit2/List_2.txt</patchurl>
+		<updateurl>http://hem.bredband.net/lembit2/Updates.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>elysiauo.servegame.com</address>
+		<port>2593</port>
+		<max_online>54</max_online>
+		<cur_online>32</cur_online>
+		<avg_online>36</avg_online>
+		<votes>16</votes>
+		<total_votes>52</total_votes>
+		<out>31</out>
+		<total_out>70</total_out>
+		<rank>26</rank>
+	</Shard>
+	<Shard id="310">
+		<status>ACTIVE</status>
+		<name>The First Empire</name>
+		<description>&quot;PvP/RP, Fast dedicated server, Professional dedicated staff, Thousands of quests and mini quests, Balanced PvP system.  Unique Crafting systems,  We are UO at its best ! &quot;</description>
+		<url>http://firstempire.site.vu/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>thefirstempire.dynip.com</address>
+		<port>2593</port>
+		<max_online>12</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>2</avg_online>
+		<votes>16</votes>
+		<total_votes>265</total_votes>
+		<out>15</out>
+		<total_out>293</total_out>
+		<rank>27</rank>
+	</Shard>
+	<Shard id="444">
+		<status>ACTIVE</status>
+		<name>Equilibrium</name>
+		<description>RunUO 2.0 shard with both Trammel &amp; Felucca, english language only.
+700 statscap, custom spawned.
+Join us and be a part of the development, your opinions count!</description>
+		<url>http://www.runeq.nu</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>equilibrium.myftp.org</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>2</avg_online>
+		<votes>15</votes>
+		<total_votes>105</total_votes>
+		<out>14</out>
+		<total_out>109</total_out>
+		<rank>28</rank>
+	</Shard>
+	<Shard id="396">
+		<status>ACTIVE</status>
+		<name>A Rogue Existence [ARE]</name>
+		<description>A.R.E. is a stable and up-to-date Sphere 56b shard with rebuilt skills, thousands of custom items (craftable and findable), unique loot systems, newby quests, and a balanced skillcap.  We are small but offer the most!  Come and check us out.</description>
+		<url>http://www.areuo.com/</url>
+		<patchurl>http://72.29.90.115/~uebulis/areuo/ConnectUO_Patch.rar</patchurl>
+		<updateurl>http://mail.areuo.com:3390/forums/forumdisplay.php?f=12</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>mail.areuo.com</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>2</avg_online>
+		<votes>15</votes>
+		<total_votes>64</total_votes>
+		<out>3</out>
+		<total_out>299</total_out>
+		<rank>29</rank>
+	</Shard>
+	<Shard id="192">
+		<status>ACTIVE</status>
+		<name>Wendelwelt</name>
+		<description>Deutscher RP-Shard mit freundlicher Community. Komplett neue und detaillierte Map, Dungeons und Geb&auml;ude. Flexibles Klassensystem, neues Wiederbelebungssystem und zahlreiche weitere Features. Sehr Einsteigerfreundlich.</description>
+		<url>http://www.wendelwelt.net</url>
+		<patchurl>http://www.nemmelheim.de/wendelwelt/connectuo/connectuo300307.txt</patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>GER</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>82.96.120.103</address>
+		<port>2593</port>
+		<max_online>56</max_online>
+		<cur_online>19</cur_online>
+		<avg_online>11</avg_online>
+		<votes>13</votes>
+		<total_votes>391</total_votes>
+		<out>6</out>
+		<total_out>257</total_out>
+		<rank>30</rank>
+	</Shard>
+	<Shard id="191">
+		<status>ACTIVE</status>
+		<name>MedievalDomain</name>
+		<description>We offer a family type atmosphere with plenty to keep you busy. Custom resources, pets, stealables, bods system, pet breeding, champ areas &amp; lots of extras. SE spells and ML crafting, dungeons, and elves. Training room, vendor mall, gate room. No skillcap, 500 statcap with orbs to raise statcap and max follower cap. See website!</description>
+		<url>http://www.geocities.com/medieval_domain/index.html</url>
+		<patchurl>http://home.comcast.net/~jyoung331/Patch.rar</patchurl>
+		<updateurl>custom mounts and hues</updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>68.61.36.125</address>
+		<port>2592</port>
+		<max_online>39</max_online>
+		<cur_online>31</cur_online>
+		<avg_online>20</avg_online>
+		<votes>13</votes>
+		<total_votes>118</total_votes>
+		<out>18</out>
+		<total_out>234</total_out>
+		<rank>31</rank>
+	</Shard>
+	<Shard id="21">
+		<status>ACTIVE</status>
+		<name>Raistlins World</name>
+		<description>Runuo 2.0 Custom faction system &amp; Champ spawns  + more check website for details..</description>
+		<url>http://www.raistlinsworld.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>raistlinsworld.bounceme.net</address>
+		<port>2593</port>
+		<max_online>71</max_online>
+		<cur_online>41</cur_online>
+		<avg_online>29</avg_online>
+		<votes>11</votes>
+		<total_votes>1040</total_votes>
+		<out>6</out>
+		<total_out>728</total_out>
+		<rank>32</rank>
+	</Shard>
+	<Shard id="518">
+		<status>ACTIVE</status>
+		<name>Arcodia: New Dawns</name>
+		<description>The Original Arcodia! 6+yr history, AoS/SE/Partial ML, Customs, Quests, Expanded crafting, Roleplay encouraged, Friendly proffesional staff, Dedicated server on an OC connection and much more! Stop by and see us!</description>
+		<url>http://www.arcodia.com/portal/news.php</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>38.99.147.76</address>
+		<port>2593</port>
+		<max_online>28</max_online>
+		<cur_online>19</cur_online>
+		<avg_online>13</avg_online>
+		<votes>11</votes>
+		<total_votes>101</total_votes>
+		<out>9</out>
+		<total_out>115</total_out>
+		<rank>33</rank>
+	</Shard>
+	<Shard id="224">
+		<status>ACTIVE</status>
+		<name>LocalStrike:LS-UO</name>
+		<description>PvM/PvP All Facets.  Evil Players - Faster Gain- Walk Casting - No Caps Skills. Fully Spawned. Server Argentino.  Owned by Nora.  R.2 ToTs and Perless System! New players start 100/100/100 Stats. R 2Svn 151. Fixes soon! Be ware! SE and ML</description>
+		<url>http://ls-uo.localstrike.com.ar/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>200.43.193.121</address>
+		<port>2593</port>
+		<max_online>18</max_online>
+		<cur_online>10</cur_online>
+		<avg_online>4</avg_online>
+		<votes>11</votes>
+		<total_votes>344</total_votes>
+		<out>10</out>
+		<total_out>313</total_out>
+		<rank>34</rank>
+	</Shard>
+	<Shard id="615">
+		<status>ACTIVE</status>
+		<name>Hegemonia</name>
+		<description>Servidor brasileiro com grande parte traduzida para portugu&ecirc;s. Alem de v&aacute;rias implementa&ccedil;&otilde;es e sistemas &uacute;nicos. Aprimorado para parecer mais real. Interpreta&ccedil;&atilde;o (RP) encorajada, mas n&atilde;o obrtigat&oacute;ria. Sem limites de habilidades e evolu&ccedil;&atilde;o demorada (hard skill gain). N&atilde;o requer patch.</description>
+		<url>http://geocities.yahoo.com.br/vangelfear</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>POR</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>hegemonia.no-ip.org</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>11</votes>
+		<total_votes>20</total_votes>
+		<out>20</out>
+		<total_out>32</total_out>
+		<rank>35</rank>
+	</Shard>
+	<Shard id="170">
+		<status>ACTIVE</status>
+		<name>YSUO - Yserbius</name>
+		<description>Roleplay.  UO, Good Group of people.  Many extras and bonus' to earn, receive, and find.  Nothing but fun.  Fully updated with new and exciting things regularly.</description>
+		<url>http://www.yserbius.org/forum/forumdisplay.php?f=125</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>206.225.93.51</address>
+		<port>2593</port>
+		<max_online>14</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>10</votes>
+		<total_votes>183</total_votes>
+		<out>5</out>
+		<total_out>229</total_out>
+		<rank>36</rank>
+	</Shard>
+	<Shard id="540">
+		<status>ACTIVE</status>
+		<name>Aeternum</name>
+		<description>Unlike anything you have ever seen. 
+No Trammel, Full ML Support. Unique systems, Unique style. Player run economy. Massive crafting systems, massive harvesting systems, custom BOD systems and prizes, custom Champs and Unique mini-champ system and more.</description>
+		<url>http://www.aeternum.org</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>aeternum.selfip.net</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>10</votes>
+		<total_votes>75</total_votes>
+		<out>6</out>
+		<total_out>75</total_out>
+		<rank>37</rank>
+	</Shard>
+	<Shard id="388">
+		<status>ACTIVE</status>
+		<name>MoonShadowII</name>
+		<description>A fun filled adult shard featuring exotic homes, custom craftables , custom spawns and art.</description>
+		<url>http://moonshadow2.0.tripod.com/</url>
+		<patchurl>http://www.moonshadowfun.com/MS2.txt</patchurl>
+		<updateurl>http://moonshadowfun.com/MS2/ForMySweetie.txt</updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>72.231.159.92</address>
+		<port>2596</port>
+		<max_online>29</max_online>
+		<cur_online>19</cur_online>
+		<avg_online>12</avg_online>
+		<votes>10</votes>
+		<total_votes>30</total_votes>
+		<out>16</out>
+		<total_out>83</total_out>
+		<rank>38</rank>
+	</Shard>
+	<Shard id="223">
+		<status>ACTIVE</status>
+		<name>Phantasya</name>
+		<description>Live out your dreams.
+AOS, SE items, no insurance, customized: world, races and items.</description>
+		<url>http://www.phantasyas.org</url>
+		<patchurl>http://www.phantasyas.org/files/patches.rar</patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>213.190.195.40</address>
+		<port>2593</port>
+		<max_online>18</max_online>
+		<cur_online>7</cur_online>
+		<avg_online>6</avg_online>
+		<votes>10</votes>
+		<total_votes>119</total_votes>
+		<out>4</out>
+		<total_out>132</total_out>
+		<rank>39</rank>
+	</Shard>
+	<Shard id="581">
+		<status>ACTIVE</status>
+		<name>Dark Genesis Reborn</name>
+		<description>A Roleplay/PvP oriented shard, lots of new ideas and plenty of friendly people to play with. Tons of customs and uniques! 700 skill cap 225 stat cap at first, 800/270 attainable with scrolls. Live birth evo Wolves and Evo Dragons. ML Era shard.</description>
+		<url>http://www.darkgenesiscafe.com/UOShard/index.html</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>71.203.128.7</address>
+		<port>2593</port>
+		<max_online>11</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>2</avg_online>
+		<votes>10</votes>
+		<total_votes>32</total_votes>
+		<out>14</out>
+		<total_out>73</total_out>
+		<rank>40</rank>
+	</Shard>
+	<Shard id="117">
+		<status>DOWN</status>
+		<name>Next~Chapter</name>
+		<description>Next~Chapter
+Be the best in your Element: AOS/Balanced/RunUO 2.0/Professional staff (with several rl software developers) and server.  Caps ~ 1000/225 4/5 casting (no earrings). Custom storyline and events unlike anything you've seen before. Already the fastest growning community out there. We are here to stay! Join us now!</description>
+		<url>http://www.uo-nextchapter.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>72.36.252.186</address>
+		<port>2593</port>
+		<max_online>10</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>10</votes>
+		<total_votes>337</total_votes>
+		<out>19</out>
+		<total_out>411</total_out>
+		<rank>41</rank>
+	</Shard>
+	<Shard id="636">
+		<status>DOWN</status>
+		<name>Renaissance 2</name>
+		<description>A Ren-era PvP shard with allowed use of KUOC.</description>
+		<url>http://pvpbeta.jconserv.net</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>theshardsXe.no-ip.info</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>9</votes>
+		<total_votes>9</total_votes>
+		<out>13</out>
+		<total_out>13</total_out>
+		<rank>42</rank>
+	</Shard>
+	<Shard id="88">
+		<status>ACTIVE</status>
+		<name>Twilight Zone</name>
+		<description>NEW! Recipe system, craftable arties, magic craftables now fully working!
+
+ML/SE/AOS, Community Collections, Peerless', Named monster, 100mb connection, fast server. And much more coming soon!</description>
+		<url>http://www.twilight-zone.cz</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>194.228.243.93</address>
+		<port>2593</port>
+		<max_online>116</max_online>
+		<cur_online>44</cur_online>
+		<avg_online>31</avg_online>
+		<votes>9</votes>
+		<total_votes>702</total_votes>
+		<out>9</out>
+		<total_out>730</total_out>
+		<rank>43</rank>
+	</Shard>
+	<Shard id="289">
+		<status>ACTIVE</status>
+		<name>Schattenwelt</name>
+		<description>Grosser deutscher Freeshard auf RunUO Basis. Schattenwelt ist seit 1999 aktiv und bietet eine solide und zuverl&auml;ssige Spielumgebung. Unser Bereich liegt in einer bew&auml;hrten Mischung aus hochwertigem Rollenspiel, ohne dabei den reinen Fun-Faktor von UO zu vernachl&auml;ssigen.</description>
+		<url>http://www.schattenwelt.de</url>
+		<patchurl>http://www.schattenwelt.de/downloads/SW_Client_Pack.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>GER</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>217.20.119.9</address>
+		<port>2593</port>
+		<max_online>94</max_online>
+		<cur_online>40</cur_online>
+		<avg_online>22</avg_online>
+		<votes>8</votes>
+		<total_votes>47</total_votes>
+		<out>22</out>
+		<total_out>173</total_out>
+		<rank>44</rank>
+	</Shard>
+	<Shard id="265">
+		<status>ACTIVE</status>
+		<name>Libercity Online</name>
+		<description>Serveur Quebecois pour Ultima Online. Staff et citoyens francais/quebecois. Script avancer. Ville de libercity completement Unique. (Hrp/RP)</description>
+		<url>http://libercity.6x.to</url>
+		<patchurl>http://pages.videotron.com/kbec/libercity.txt</patchurl>
+		<updateurl>http://pages.videotron.com/kbec/service.txt</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>24.37.97.88</address>
+		<port>27001</port>
+		<max_online>15</max_online>
+		<cur_online>6</cur_online>
+		<avg_online>3</avg_online>
+		<votes>8</votes>
+		<total_votes>61</total_votes>
+		<out>17</out>
+		<total_out>147</total_out>
+		<rank>45</rank>
+	</Shard>
+	<Shard id="199">
+		<status>ACTIVE</status>
+		<name>Mystical Unicorn</name>
+		<description>We are a fun, family friendly shard - Kids are allowed as long as they are suitably supervised, we aren't a nursery.
+We are a no PvP shard ( except for occasional events ).
+We have many custom items, quests and ridables and high loot gain, as well as an experience level system.</description>
+		<url>http://mysticalunicorn.servehttp.com</url>
+		<patchurl>http://hunt4gifts.com/mufiles/main.txt</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>mysticalunicorn.servegame.com</address>
+		<port>2593</port>
+		<max_online>71</max_online>
+		<cur_online>37</cur_online>
+		<avg_online>24</avg_online>
+		<votes>8</votes>
+		<total_votes>151</total_votes>
+		<out>16</out>
+		<total_out>435</total_out>
+		<rank>46</rank>
+	</Shard>
+	<Shard id="257">
+		<status>ACTIVE</status>
+		<name>Sylvannia UO</name>
+		<description>Servidor Ultima Online : Mondain's Legacy gratuito. Infinidad de sistemas autom&aacute;ticos. Staff profesional con gran experiencia.</description>
+		<url>http://www.sylvannia.net/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>SPN</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>sylvannia.game-host.org</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>8</votes>
+		<total_votes>117</total_votes>
+		<out>9</out>
+		<total_out>100</total_out>
+		<rank>47</rank>
+	</Shard>
+	<Shard id="266">
+		<status>ACTIVE</status>
+		<name>Xzandras Dream</name>
+		<description>UO 2.0 Shard. Old style game with a twist. Custom monsters and lots of quests. Helpful and friendly staff. PVP in Fel with Fel rules. Events for players weekly. We challenge you to Dream Xzandras Dream</description>
+		<url>www.xzandrasdream.com</url>
+		<patchurl>http://xzandrasdream.com/PatchFolder/CelticPatchWithArmor1MainDark.rar</patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>209.165.251.2</address>
+		<port>2593</port>
+		<max_online>32</max_online>
+		<cur_online>16</cur_online>
+		<avg_online>15</avg_online>
+		<votes>8</votes>
+		<total_votes>472</total_votes>
+		<out>8</out>
+		<total_out>535</total_out>
+		<rank>48</rank>
+	</Shard>
+	<Shard id="628">
+		<status>ACTIVE</status>
+		<name>WoSX</name>
+		<description>Fully spawned AoS shard, all facets.  Blend of UO:R, Pre-UO:R and AoS rules. PVP &amp; PVM Lots of customs, items, systems, town housing... Has some adult content, discretion is advised.</description>
+		<url>http://www.shitx.org/SHITXUO/UOMAIN.htm</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>shitx.servegame.org</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>3</avg_online>
+		<votes>8</votes>
+		<total_votes>14</total_votes>
+		<out>8</out>
+		<total_out>13</total_out>
+		<rank>49</rank>
+	</Shard>
+	<Shard id="37">
+		<status>ACTIVE</status>
+		<name>Europa 2</name>
+		<description>Osi based, some ML, 2 year old shard, Great staff and players, character transfer from most shards. Advanced character purchase from ingame gold, Join us today!</description>
+		<url>http://www.ax-n.net/europe2/home/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>jaynigs.no-ip.com</address>
+		<port>2593</port>
+		<max_online>16</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>7</votes>
+		<total_votes>116</total_votes>
+		<out>5</out>
+		<total_out>163</total_out>
+		<rank>50</rank>
+	</Shard>
+	<Shard id="162">
+		<status>ACTIVE</status>
+		<name>Current Online World</name>
+		<description>Fun for all with an easy twist,  All skills up to 220 (with powerscrolls).  375 stat cap (with statscrolls). Several quests. Up to Five houses per account. RunUO 2.0  Lots of craftables. and custom items</description>
+		<url>http://www.currentonlineworld.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>currentonlineworld.servegame.com</address>
+		<port>2593</port>
+		<max_online>21</max_online>
+		<cur_online>9</cur_online>
+		<avg_online>6</avg_online>
+		<votes>6</votes>
+		<total_votes>122</total_votes>
+		<out>6</out>
+		<total_out>153</total_out>
+		<rank>51</rank>
+	</Shard>
+	<Shard id="547">
+		<status>ACTIVE</status>
+		<name>Guardians of Paradise</name>
+		<description>Run UO 2.0, Full Elven items and mobiles, Welcome Packs and House Warming gift pack, Family Fun Shard. No Skill Cap, 500 Stat Cap. 35 Quests to date, custom woods, leathers and ores + marble. Waxcrafting, Wine making, painting craft,harvest system, Custom monsters to fight + staff run events. PvP and PvM events will be held.</description>
+		<url>http://www.freewebs.com/gardiansofparidise/index.htm</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>24.1.178.245</address>
+		<port>2593</port>
+		<max_online>13</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>3</avg_online>
+		<votes>6</votes>
+		<total_votes>20</total_votes>
+		<out>16</out>
+		<total_out>63</total_out>
+		<rank>52</rank>
+	</Shard>
+	<Shard id="69">
+		<status>ACTIVE</status>
+		<name>Goddess Revived</name>
+		<description>1320 Skill Cap - 400 Stat Cap, Champs, Custom Creatures, Decor, Hues and Items. Druid Spells System. Friendly Staff, 100% Spawned, Including ML Peerless creatures and Guantlet. Skara Casino, New Custom Dungeons, Custom Creatures from New Player to Uber Vet. Over 20 levelable items. Races, Skill trainers and one of the most beautiful worlds around. Easy rez. Fast Server. Stable Connection. 4 New Creatures added this week alone (allwith thier own armor &amp; weapon sets)</description>
+		<url>http://www.goddessrevived.com</url>
+		<patchurl>http://www.fmkaraokeradio.com/GoddessPatch.rar</patchurl>
+		<updateurl>http://goddess.fmkaraokeradio.com/patchdetail.htm</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>goddessrevived.servegame.com</address>
+		<port>2593</port>
+		<max_online>32</max_online>
+		<cur_online>7</cur_online>
+		<avg_online>7</avg_online>
+		<votes>6</votes>
+		<total_votes>429</total_votes>
+		<out>5</out>
+		<total_out>525</total_out>
+		<rank>53</rank>
+	</Shard>
+	<Shard id="184">
+		<status>ACTIVE</status>
+		<name>Splitterwelt</name>
+		<description>Splitterwelt - Ein Freeshard auf dem Rollenspiel gefordert und erw&uuml;nscht, aber nicht zwingend st&auml;ndig erforderlich ist. Viele Features, ein freundlicher, hilfsbereiter Staff und viel Spa&szlig;. Anmeldung erforderlich.</description>
+		<url>http://www.splitterwelt-freeshard.com/</url>
+		<patchurl>http://www.splitterwelt.com/patchlist.txt</patchurl>
+		<updateurl>http://www.splitterwelt.com/patchchanges.txt</updateurl>
+		<era>SE</era>
+		<type>RP</type>
+		<lang>GER</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>splitterwelt.com</address>
+		<port>2593</port>
+		<max_online>23</max_online>
+		<cur_online>4</cur_online>
+		<avg_online>1</avg_online>
+		<votes>6</votes>
+		<total_votes>9</total_votes>
+		<out>5</out>
+		<total_out>39</total_out>
+		<rank>54</rank>
+	</Shard>
+	<Shard id="361">
+		<status>ACTIVE</status>
+		<name>Age Of Darkness</name>
+		<description>New AoS server with many custom, PvP/RP come try us !! 4 gig of rams !
+Download the patch at http://ageofdarkness.net/patch/</description>
+		<url>http://www.ageofdarkness.net</url>
+		<patchurl></patchurl>
+		<updateurl>Maps</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>aoduo.ath.cx</address>
+		<port>2593</port>
+		<max_online>18</max_online>
+		<cur_online>7</cur_online>
+		<avg_online>4</avg_online>
+		<votes>5</votes>
+		<total_votes>134</total_votes>
+		<out>5</out>
+		<total_out>97</total_out>
+		<rank>55</rank>
+	</Shard>
+	<Shard id="227">
+		<status>ACTIVE</status>
+		<name>The Garden</name>
+		<description>1500/300 Skill/Stat cap.  We have a Start Pack for new players.  We have lots of customs.  We have a Friendly and Interactive staff.  Player events.  Veteran Rewards.  Staff Custom Dungeons and Tames.  Many custom quests.  Please join us!</description>
+		<url>http://www.uogarden.com/TheGarden/index.php</url>
+		<patchurl>http://www.uogarden.com/hues1.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.86.185.186</address>
+		<port>7779</port>
+		<max_online>31</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>6</avg_online>
+		<votes>5</votes>
+		<total_votes>70</total_votes>
+		<out>6</out>
+		<total_out>116</total_out>
+		<rank>56</rank>
+	</Shard>
+	<Shard id="139">
+		<status>ACTIVE</status>
+		<name>Wireplay Lothlorien</name>
+		<description>We are a UK based shard that has been running for over 5 years by a dedicated staff team.
+
+Some of the features we have to offer are:
+- Balanced PvP System
+- Bounty System
+- Custom Craftables
+- Custom Dungeons
+- Custom Housing
+- Duel System (1v1 and Team)
+- Experience System
+- Runic Weapons
+- Ship Building and Cannons
+
+The skill cap is 900%. The stat cap is 300, with a maximum of 115 point in each stat.</description>
+		<url>http://uo.wireplay.co.uk/</url>
+		<patchurl>ftp://ftp.wireplay.co.uk/pub/ultimaonline/patches/uogateway.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>195.224.41.31</address>
+		<port>2593</port>
+		<max_online>13</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>5</votes>
+		<total_votes>183</total_votes>
+		<out>5</out>
+		<total_out>141</total_out>
+		<rank>57</rank>
+	</Shard>
+	<Shard id="172">
+		<status>ACTIVE</status>
+		<name>Lost Lands Of UO</name>
+		<description>No skill cap!! Web for all the info!!  pvp,pvm,Craft galore!! The server has been running for over 2 years. ML is fully spawned along with all the house addons. 2 houses per account and 2 accounts allowed. Tons of custom items, artifacts, and scripts. Come try us out!!!!</description>
+		<url>http://www.freewebs.com/ohmslaw/index.htm</url>
+		<patchurl>http://www.freewebs.com/ohmslaw/lostlandspatch.txt</patchurl>
+		<updateurl>http://www.freewebs.com/ohmslaw/welcometolluo.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>67.190.104.71</address>
+		<port>2593</port>
+		<max_online>17</max_online>
+		<cur_online>6</cur_online>
+		<avg_online>7</avg_online>
+		<votes>5</votes>
+		<total_votes>28</total_votes>
+		<out>11</out>
+		<total_out>147</total_out>
+		<rank>58</rank>
+	</Shard>
+	<Shard id="475">
+		<status>ACTIVE</status>
+		<name>UO Rising Hybrid</name>
+		<description>RP/PVM Shard. Lots of  customs including, custom ores, woods, leathers, and  advanced cooking system and Bio Engineering. Embued weapons system, and lots of quest coming.  Very friendly and mature player and staff. Skill cap 800 ... Come play in our little world and see a new side of UO.</description>
+		<url>http://uorhybrid.bravehost.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>74.195.219.83</address>
+		<port>2593</port>
+		<max_online>10</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>5</votes>
+		<total_votes>45</total_votes>
+		<out>7</out>
+		<total_out>98</total_out>
+		<rank>59</rank>
+	</Shard>
+	<Shard id="620">
+		<status>ACTIVE</status>
+		<name>Avatar's Kingdom</name>
+		<description>Our planed features are: Custom Races, Ores Woods, Leathers, and Many Spell/Ability classes, as well as many unique towns and dungeons. Please see our web page for details.</description>
+		<url>http://avatarskingdom.s5.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>24.159.55.144</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>5</votes>
+		<total_votes>9</total_votes>
+		<out>8</out>
+		<total_out>10</total_out>
+		<rank>60</rank>
+	</Shard>
+	<Shard id="275">
+		<status>ACTIVE</status>
+		<name>Simply Reborn</name>
+		<description>Fun and friendly place to relax and play. Over 25 quests to do. All facets used. PVP/PK only in Felucca. The new bods added. Taming advantages are present in the game. Fast gains and advanced gates at starting area. Many crafting systems to do. Working Factions System. Just come and see for yourself and then you will see we are worth while to play.</description>
+		<url>http://www.simplyuso.com/ht/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>71.193.169.16</address>
+		<port>2593</port>
+		<max_online>17</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>3</avg_online>
+		<votes>5</votes>
+		<total_votes>12</total_votes>
+		<out>4</out>
+		<total_out>82</total_out>
+		<rank>61</rank>
+	</Shard>
+	<Shard id="353">
+		<status>ACTIVE</status>
+		<name>Lords of Ancara</name>
+		<description>We have over 130 custom creatures! Custom quests, pet breeding, and no skill caps make Ancara a guild friendly, family shard. Dedicated server &amp; fast network = no lag!</description>
+		<url>http://207.158.38.122/</url>
+		<patchurl>http://207.158.38.122/2-19-2007.txt</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>207.158.38.122</address>
+		<port>2593</port>
+		<max_online>10</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>0</avg_online>
+		<votes>5</votes>
+		<total_votes>41</total_votes>
+		<out>10</out>
+		<total_out>76</total_out>
+		<rank>62</rank>
+	</Shard>
+	<Shard id="568">
+		<status>ACTIVE</status>
+		<name>UOLegends</name>
+		<description>UO Legends is trying to repeat your old experiences. Legends enables the players to once again adventure in a truly ongoing world. A world where battles are fought once again with might and mind, alliances are once again formed and shattered, and both enemies and friends are just as interested in wealth and power as you are. Slay the dragon, form a government, join a guild, craft and sell wares, and meet your friends at the tavern.</description>
+		<url>uolegends.up.md</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>75.126.130.137</address>
+		<port>2593</port>
+		<max_online>13</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>2</avg_online>
+		<votes>4</votes>
+		<total_votes>59</total_votes>
+		<out>9</out>
+		<total_out>119</total_out>
+		<rank>63</rank>
+	</Shard>
+	<Shard id="484">
+		<status>ACTIVE</status>
+		<name>Oblivion Shard</name>
+		<description>PvM Balanced, 10 custom races, 70+ quests, daily GM events, Great playerbase and staff.
+
+FAMILY SHARD, no bad language or harassing allowed. Almost no pk. 
+
+6 years Online. 
+Dedicated server &amp; lines.
+Own development with unique scripts
+RP encouraged, but not required.</description>
+		<url>http://www.oblivion2.com</url>
+		<patchurl>http://cablemodem.fibertel.com.ar/juanitierno/hues.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>shard.aleknights.com</address>
+		<port>2593</port>
+		<max_online>55</max_online>
+		<cur_online>28</cur_online>
+		<avg_online>27</avg_online>
+		<votes>4</votes>
+		<total_votes>68</total_votes>
+		<out>8</out>
+		<total_out>120</total_out>
+		<rank>64</rank>
+	</Shard>
+	<Shard id="261">
+		<status>ACTIVE</status>
+		<name>Heavens Fury</name>
+		<description>Non PVP Family Orientated Shard that starts with 150 each stat and 120 each Skill... TONS of Custom Monsters, quests, clothing, armor hair, citys, dungeons and many many more things i cant begin to mention!!</description>
+		<url>http://www.freewebs.com/hfury/</url>
+		<patchurl>http://webzoom.freewebs.com/hfury/ConnectUO.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>65.185.200.72</address>
+		<port>2593</port>
+		<max_online>31</max_online>
+		<cur_online>8</cur_online>
+		<avg_online>7</avg_online>
+		<votes>4</votes>
+		<total_votes>115</total_votes>
+		<out>5</out>
+		<total_out>171</total_out>
+		<rank>65</rank>
+	</Shard>
+	<Shard id="609">
+		<status>ACTIVE</status>
+		<name>Ghrome Core [GC]</name>
+		<description>Rp, Pvp, Pvm, No rules shard, fast skill gains, no regs, Skills Caps 8000.0, Drop systeme rare and normal items.All Systeme custom scripts.Staff of 4 Game Master 9 years experience shard host.All are welcome to Ghrom Core!</description>
+		<url>http://ghromcore.servegame.com:2593/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>ghromcore.servegame.com</address>
+		<port>2593</port>
+		<max_online>7</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>4</votes>
+		<total_votes>10</total_votes>
+		<out>0</out>
+		<total_out>3</total_out>
+		<rank>66</rank>
+	</Shard>
+	<Shard id="219">
+		<status>DOWN</status>
+		<name>Crimson Waters</name>
+		<description>Great place to call home with 2 houses and a Townhouse. Family Owned and Run. We go out of our way to be different. Never ending Custom Crafting system like you have never seen before. Tons of deco for the decorator and lots of arties for the hunter. No skill cap and stats cap 500 with fast gains. Some custom maps, custom dungeons and custom NPCs. Renaissance Festival Event is the only place to find PVP here and its all old school PVP and in a controlled atmosphere.</description>
+		<url>http://www.crimsonwaters.biz/</url>
+		<patchurl>http://crimsonwaters.fileburst.com/patch/PatchU.O.C.3.1.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>66.163.154.174</address>
+		<port>2599</port>
+		<max_online>16</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>4</votes>
+		<total_votes>113</total_votes>
+		<out>4</out>
+		<total_out>184</total_out>
+		<rank>67</rank>
+	</Shard>
+	<Shard id="579">
+		<status>ACTIVE</status>
+		<name>Aude Sapere</name>
+		<description>RunUO2.0 custom shard we welcome any and all players.We have a 300 stat capand 1500 skill cap. 5fully spawned facets. custom hues,factions,pvp,custom houses,mobs,items also alot of quests. Come join us for a great experience at Aude SApere</description>
+		<url>http://audesapere.bravehost.com</url>
+		<patchurl>http://sheljl5.tripod.com/patches/patch2.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>66.177.96.43</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>2</avg_online>
+		<votes>4</votes>
+		<total_votes>9</total_votes>
+		<out>9</out>
+		<total_out>22</total_out>
+		<rank>68</rank>
+	</Shard>
+	<Shard id="334">
+		<status>ACTIVE</status>
+		<name>Shadows Of Darkness</name>
+		<description>6/6fc/fcr/Free Arties!/120 All Skills/PVP/PK/NewHost/Faster</description>
+		<url>http://www.geocities.com/darknyte2003/home.html</url>
+		<patchurl>http://abruptdarkness.tripod.com/hues.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>75.185.86.18</address>
+		<port>2594</port>
+		<max_online>59</max_online>
+		<cur_online>31</cur_online>
+		<avg_online>23</avg_online>
+		<votes>4</votes>
+		<total_votes>9</total_votes>
+		<out>6</out>
+		<total_out>96</total_out>
+		<rank>69</rank>
+	</Shard>
+	<Shard id="143">
+		<status>ACTIVE</status>
+		<name>Forged Worlds</name>
+		<description>Players are able to place 5 Houses and Link up to 3 w/o GM help, Customs  Galor! Vet rewards after 1 week .Skill Caps Increases with age of account. Come play with our Friendly Staff. 1000.0 Starting Skills, 350 Skill cap EVERY useable item is a Lvl item! Craftable Artys, Evo and Mercs, 2 years Exp Running Shards :) Players can buy almost Static building! Awesome Casino for those that have the habit!,Self Res with NO cost! Custom Hue Sytem...</description>
+		<url>http://www.forgedworlds.com</url>
+		<patchurl>http://forgedworlds.com/alliance/FWPatchList.txt</patchurl>
+		<updateurl>http://forgedworlds.com/alliance/FW.txt</updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>forgedworlds.no-ip.org</address>
+		<port>2594</port>
+		<max_online>20</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>313</total_votes>
+		<out>9</out>
+		<total_out>715</total_out>
+		<rank>70</rank>
+	</Shard>
+	<Shard id="123">
+		<status>ACTIVE</status>
+		<name>Edge of Paradise</name>
+		<description>We are a RunUO 1.0 server, offering: 
+ **NO PK / NO PvP** 
+Tamer's Haven 
+Crafter's Haven 
+Ample starting skills, gold, and resources 
+Lots of customs you'll only find here 
+Optional Skill/Stat Gate - You Choose 
+Training room, and skill trainers 
+Socketing System / Pet Leveling System
+Many Customs &amp; Custom Crafting Systems
+Adult Staff - Not Hiring</description>
+		<url>http://www.eopshard.com/</url>
+		<patchurl>http://www.eopshard.com/patch.rar</patchurl>
+		<updateurl>http://www.eopshard.com/patch.html</updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>nitrox.kicks-ass.net</address>
+		<port>2593</port>
+		<max_online>20</max_online>
+		<cur_online>10</cur_online>
+		<avg_online>9</avg_online>
+		<votes>3</votes>
+		<total_votes>75</total_votes>
+		<out>3</out>
+		<total_out>205</total_out>
+		<rank>71</rank>
+	</Shard>
+	<Shard id="119">
+		<status>ACTIVE</status>
+		<name>Age Of Rogues</name>
+		<description>Age of Rogues is balanced and still offers things that will intregue you. All facets are enabled and fully spawned, Felucca, Trammel, Malas, Ilshenar, and Tokuno. Champ spawns can be found in Felucca, Tokuno, and Ilshenar.  There is a dark side of the world, murderers, scoundrels, and traitors. Yet where there is darkness there is always light.</description>
+		<url>http://www.geocities.com/age_of_rogues/</url>
+		<patchurl>http://www.fileden.com/files/2007/1/29/709852/patch.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>207.172.202.48</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>4</avg_online>
+		<votes>3</votes>
+		<total_votes>20</total_votes>
+		<out>3</out>
+		<total_out>137</total_out>
+		<rank>72</rank>
+	</Shard>
+	<Shard id="46">
+		<status>ACTIVE</status>
+		<name>World of Dragons</name>
+		<description>Custom Monsters/Tamables and Craftables/Boosted Pet Leveling System/Evos and Mercs/Custom towns come join the challange.</description>
+		<url>http://www.freewebs.com/worldodragons/</url>
+		<patchurl>http://www.fallenfromparadise.com/worldofdragons/datafiles.rar</patchurl>
+		<updateurl>http://www.fallenfromparadise.com/worldofdragons/datafiles.rar</updateurl>
+		<era>SE</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>71.13.232.240</address>
+		<port>2593</port>
+		<max_online>15</max_online>
+		<cur_online>6</cur_online>
+		<avg_online>7</avg_online>
+		<votes>3</votes>
+		<total_votes>54</total_votes>
+		<out>2</out>
+		<total_out>157</total_out>
+		<rank>73</rank>
+	</Shard>
+	<Shard id="14">
+		<status>ACTIVE</status>
+		<name>Darkwind Online</name>
+		<description>A new shard in development with a Semi-RP Emphasis.  Encourage player run economy with player run towns, and active Role-played confrontation.  Small player base, but looking to keep going up.  Come join this infant shard. See site for details on rule's, connecting, community and how you can help out Darkwind Online.</description>
+		<url>http://www.darkwindonline.org</url>
+		<patchurl>http://www.darkwindonline.org/ServerFiles/patch1.txt</patchurl>
+		<updateurl>http://www.darkwindonline.org/ServerFiles/changelog.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>darkwindonline.no-ip.org</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>61</total_votes>
+		<out>1</out>
+		<total_out>127</total_out>
+		<rank>74</rank>
+	</Shard>
+	<Shard id="222">
+		<status>ACTIVE</status>
+		<name>Avatars Legacy</name>
+		<description>---Description only in polish language---
+Jedyny w Polsce shard zbudowany w oparciu o realia serii gier Ultima. Avatar juz nigdy nie powroci, przyszlosc Britanni lezy w rekach jej mieszkancow. Mechanika zblizona do OSI (AoS + elementy pozniejszych dodatkow). Dla chetnych klimatyczna gra i eventy!
+!! main language is polish !!</description>
+		<url>www.avatarslegacy.pl</url>
+		<patchurl></patchurl>
+		<updateurl>www.avatarslegacy.pl/forum</updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>83.15.78.2</address>
+		<port>2593</port>
+		<max_online>44</max_online>
+		<cur_online>32</cur_online>
+		<avg_online>13</avg_online>
+		<votes>3</votes>
+		<total_votes>400</total_votes>
+		<out>1</out>
+		<total_out>372</total_out>
+		<rank>75</rank>
+	</Shard>
+	<Shard id="355">
+		<status>ACTIVE</status>
+		<name>Archeronne</name>
+		<description>What can we really say just yet...  We're working on it :)</description>
+		<url>http://www.archeronne.us</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>server2353.archeronne.us</address>
+		<port>48889</port>
+		<max_online>7</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>59</total_votes>
+		<out>1</out>
+		<total_out>99</total_out>
+		<rank>76</rank>
+	</Shard>
+	<Shard id="485">
+		<status>ACTIVE</status>
+		<name>Dragons Den</name>
+		<description>Rule a town or rule the lands, gain titles from staff as your popularity grows. Fight back the ever growing dragons of the land. runs on runuo 1.0</description>
+		<url>www.hostguilds.com</url>
+		<patchurl>http://www.hostguilds.com</patchurl>
+		<updateurl>patch.rar</updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>www.hostguilds.com</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>3</votes>
+		<total_votes>17</total_votes>
+		<out>4</out>
+		<total_out>30</total_out>
+		<rank>77</rank>
+	</Shard>
+	<Shard id="623">
+		<status>DOWN</status>
+		<name>World Of Wizardlord</name>
+		<description>Advanced Roleplaying shard, Several Races, Opposing race wars, Completely Player Based Economy, &quot;New Era&quot; world in beta stages but is fully functional.</description>
+		<url>www.freewebs.com/wizardlord</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>worldofwizardlord.mymodem.com</address>
+		<port>2591</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>6</total_votes>
+		<out>1</out>
+		<total_out>3</total_out>
+		<rank>78</rank>
+	</Shard>
+	<Shard id="486">
+		<status>ACTIVE</status>
+		<name>Mystic Retreat</name>
+		<description>1200 skill cap, 300 stat cap.  RunUO 2 SVN162.  Custom quests, mobiles, mounts, deco etc.  Fineous' Static Housing!</description>
+		<url>http://www.mysticretreat.ca</url>
+		<patchurl>http://www.mysticretreat.ca/cuopatch.txt</patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>64.92.174.94</address>
+		<port>2593</port>
+		<max_online>7</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>2</avg_online>
+		<votes>3</votes>
+		<total_votes>19</total_votes>
+		<out>4</out>
+		<total_out>24</total_out>
+		<rank>79</rank>
+	</Shard>
+	<Shard id="466">
+		<status>ACTIVE</status>
+		<name>Legends of Hope</name>
+		<description>Fun and Very Unique Shard, with lots of Customs. Family Oriented, with PvM and PvP.
+We are an independant and customised shard, which aims to offer a fun and challenging alternative to the standard game.
+We have a unique race system - new players can choose to become either Wood Elf, Dark Elf, High Elf, Githyanki, Angel, Half-Orc, Daemon-Kin or Human. There is unique armour, items and quests for each specific race</description>
+		<url>http://www.legendsofhopeshard.com/index.html</url>
+		<patchurl>http://www.legendsofhopeshard.com/patch/Custom_Desktop.rar</patchurl>
+		<updateurl>http://www.freeforums.in/phpbb/?mforum=legendsofhope</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>legendsofhope2.no-ip.info</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>19</total_votes>
+		<out>5</out>
+		<total_out>45</total_out>
+		<rank>80</rank>
+	</Shard>
+	<Shard id="92">
+		<status>ACTIVE</status>
+		<name>UO: Sosarian Adventures</name>
+		<description>A South African UO shard with an alternative PvP system based on racial alliances. A true RP shard. There are many NPC quests scattered, some short, others epic. Other events are organised by staff.</description>
+		<url>http://uosa.unknown-realms.za.net/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>login.unknown-realms.za.net</address>
+		<port>5000</port>
+		<max_online>58</max_online>
+		<cur_online>5</cur_online>
+		<avg_online>2</avg_online>
+		<votes>3</votes>
+		<total_votes>101</total_votes>
+		<out>3</out>
+		<total_out>184</total_out>
+		<rank>81</rank>
+	</Shard>
+	<Shard id="543">
+		<status>ACTIVE</status>
+		<name>Eastern Cove</name>
+		<description>Eastern Cove is now a 100% Pre AoS shard. No regs,Factions,CTF,DD and more to come. Come and make your dreams come true.</description>
+		<url>http://www.freewebs.com/easterncove</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>easterncove.no-ip.info</address>
+		<port>2593</port>
+		<max_online>7</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>8</total_votes>
+		<out>2</out>
+		<total_out>18</total_out>
+		<rank>82</rank>
+	</Shard>
+	<Shard id="178">
+		<status>ACTIVE</status>
+		<name>The Genesis Shard</name>
+		<description>Enforced role-playing, comfortable and friendly community.
+Enterprise-scale, professional grade dedicated hosting
+Completely unique character creation: more than forty races, each with a special bonus and/or ability, more than fifteen classes balanced and time-tested.
+Large-scale and small-scale quests and events, always providing your characters a chance to improve or degrade the world they live in.
+Enhanced logging for your security and trust.
+Completely custom world maps, creatures, and towns.
+Player bounty system with defeatable town guards
+</description>
+		<url>http://www.khazman.com/genesis/index.html</url>
+		<patchurl>http://www.khazman.com/genesis/files/cuo_patch2.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>tehkhaz.servegame.com</address>
+		<port>5000</port>
+		<max_online>29</max_online>
+		<cur_online>12</cur_online>
+		<avg_online>8</avg_online>
+		<votes>3</votes>
+		<total_votes>18</total_votes>
+		<out>3</out>
+		<total_out>84</total_out>
+		<rank>83</rank>
+	</Shard>
+	<Shard id="155">
+		<status>ACTIVE</status>
+		<name>DragonsTreasure</name>
+		<description>Family Shard Many Quests Evolution Dragon, Hiryu, and Angels. No Skill Cap 325 Stat Cap. Free Bonded Pet Free Training Armor and Training Elemental Provided. Afk Macroing allowed. Token System, custom ores, custom woods, custom leathers, more artifacts at Doom, and casino. Come Join us!!</description>
+		<url>http://z8.invisionfree.com/DragonsTreasure</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>dragonstreasure.no-ip.info</address>
+		<port>2593</port>
+		<max_online>15</max_online>
+		<cur_online>13</cur_online>
+		<avg_online>7</avg_online>
+		<votes>3</votes>
+		<total_votes>14</total_votes>
+		<out>6</out>
+		<total_out>82</total_out>
+		<rank>84</rank>
+	</Shard>
+	<Shard id="299">
+		<status>ACTIVE</status>
+		<name>Medieval Dream</name>
+		<description>Family style no PK. Fun solo or party adventurer's quests in instanced dungeon, spawns automatically adjust to players' level! Many totally unique scripts: player town guard, pre-AOS/AOS/custom hybrid combat, unique bardic gameplay, custom crop/plants, a unique crafting and enhancing system. Other custom features including henchman, town invasion, exp based skill gain, buy skill with gold. Expect mature players.</description>
+		<url>http://www.medievaldream.com</url>
+		<patchurl>http://www.freewebs.com/medievaldream/patch.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>medievaldream.no-ip.info</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>25</total_votes>
+		<out>3</out>
+		<total_out>77</total_out>
+		<rank>85</rank>
+	</Shard>
+	<Shard id="41">
+		<status>ACTIVE</status>
+		<name>Age of Light</name>
+		<description>1200 skill cap/300 stat cap, customs, quests, owltr, friendly.</description>
+		<url>http://heavenspeace.com/ageoflight</url>
+		<patchurl>http://heavenspeace.com/ageoflight/ageoflight.txt</patchurl>
+		<updateurl>http://heavenspeace.com/ageoflight/changes.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>ageoflight.mine.nu</address>
+		<port>2593</port>
+		<max_online>10</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>1</avg_online>
+		<votes>3</votes>
+		<total_votes>12</total_votes>
+		<out>1</out>
+		<total_out>81</total_out>
+		<rank>86</rank>
+	</Shard>
+	<Shard id="600">
+		<status>DOWN</status>
+		<name>Game Master Training Area</name>
+		<description>Register on forum to become GM. Everyone is GM, no lag, great uptime. ALL commands as GM!</description>
+		<url>http://snobo.no-ip.com/shard</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>snobo.no-ip.com</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>4</total_votes>
+		<out>7</out>
+		<total_out>10</total_out>
+		<rank>87</rank>
+	</Shard>
+	<Shard id="629">
+		<status>ACTIVE</status>
+		<name>Land of Fantasy</name>
+		<description>A shard base in the UO:R era, with a few AOS features, such as housing. Family friendly with a knowledgeable staff. Come check us out today. (Website Coming Soon!)</description>
+		<url>http://www.landoffantasy.org/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>login.landoffantasy.org</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>4</total_votes>
+		<out>3</out>
+		<total_out>9</total_out>
+		<rank>88</rank>
+	</Shard>
+	<Shard id="560">
+		<status>ACTIVE</status>
+		<name>Heavens Vally</name>
+		<description>State cap 325, No skillcap, champ,factions,great staff, events,and good times!</description>
+		<url>http://www.geocities.com/alucard35744/temporarypreviewfile.html?1174156350984</url>
+		<patchurl>http://minorcrisis.net/files/insane.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>uo.dyndns.ws</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>3</votes>
+		<total_votes>4</total_votes>
+		<out>16</out>
+		<total_out>27</total_out>
+		<rank>89</rank>
+	</Shard>
+	<Shard id="580">
+		<status>ACTIVE</status>
+		<name>TLEA: The Life Ever After</name>
+		<description>A hardcore roleplay shard which focuses on a sense of community and thought provoking storylines. An original UO experience.</description>
+		<url>http://www.tleauo.com</url>
+		<patchurl>http://tlea.servegame.com/TLEA Patch/patchlist.txt</patchurl>
+		<updateurl>http://tlea.servegame.com/TLEA Patch/PatchInfo.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>tlea.servegame.com</address>
+		<port>2593</port>
+		<max_online>10</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>3</votes>
+		<total_votes>4</total_votes>
+		<out>3</out>
+		<total_out>9</total_out>
+		<rank>90</rank>
+	</Shard>
+	<Shard id="645">
+		<status>ACTIVE</status>
+		<name>Dark Saints</name>
+		<description>Crafters Paradise. See Forums Today =:-{)~</description>
+		<url>http://www.freewebs.com/flonero/</url>
+		<patchurl>http://darksaints2.gotdns.com/Patches/Patchlist.txt</patchurl>
+		<updateurl>http://darksaints2.gotdns.com/DSPatches/Info.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.188.234.3</address>
+		<port>2593</port>
+		<max_online>16</max_online>
+		<cur_online>10</cur_online>
+		<avg_online>6</avg_online>
+		<votes>2</votes>
+		<total_votes>2</total_votes>
+		<out>3</out>
+		<total_out>3</total_out>
+		<rank>91</rank>
+	</Shard>
+	<Shard id="648">
+		<status>ACTIVE</status>
+		<name>Mystics Of Chaos GM World</name>
+		<description>Gm World (GameMaster On Login) *Read Rules In Website Before Entering</description>
+		<url>http://mysticsofchaos.tripod.com/index.html</url>
+		<patchurl>http://mysticsofchaos.tripod.com/sitebuildercontent/sitebuilderfiles/hues.rar</patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>76.81.101.7</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>2</votes>
+		<total_votes>2</total_votes>
+		<out>6</out>
+		<total_out>6</total_out>
+		<rank>92</rank>
+	</Shard>
+	<Shard id="109">
+		<status>DOWN</status>
+		<name>Realm Of Arcadia</name>
+		<description>We offer encouraged RP, custom items/art, mobiles,  systems and over 40 quests.. There are guild owned and ran towns with PvP allowed in 2 facets. The caps are 1400/250. As well as a welcome pack for joining.</description>
+		<url>www.RealmOfArcadia.com</url>
+		<patchurl>http://www.realmofarcadia.com/downloads/gumpart.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>68.89.89.14</address>
+		<port>2575</port>
+		<max_online>16</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>2</votes>
+		<total_votes>201</total_votes>
+		<out>1</out>
+		<total_out>175</total_out>
+		<rank>93</rank>
+	</Shard>
+	<Shard id="574">
+		<status>ACTIVE</status>
+		<name>Celtic Gardens</name>
+		<description>A family oriented shard.Events, Quests, Running on runuo 2.0. No skill cap. stat cap 225 each stat. Crafter Friendly. Fast skill gain. Controlled economy.</description>
+		<url>http://celticgardens.htmlplanet.com/</url>
+		<patchurl>http://filexoom.com/files/2007/3/20/63562/hues.rar</patchurl>
+		<updateurl>Hues</updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>garden.servegame.com</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>2</votes>
+		<total_votes>8</total_votes>
+		<out>5</out>
+		<total_out>22</total_out>
+		<rank>94</rank>
+	</Shard>
+	<Shard id="171">
+		<status>DOWN</status>
+		<name>Immortal Myths</name>
+		<description>~Adult Shard~2.0~Friendly Staff~ Custom Art~ Events~</description>
+		<url>http://immortalmyths.tripod.com/</url>
+		<patchurl>ftp://gcpwa.homelinux.com/Downloads/ImmortalMyths.txt</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>65.13.115.132</address>
+		<port>2593</port>
+		<max_online>17</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>5</avg_online>
+		<votes>2</votes>
+		<total_votes>29</total_votes>
+		<out>4</out>
+		<total_out>85</total_out>
+		<rank>95</rank>
+	</Shard>
+	<Shard id="290">
+		<status>ACTIVE</status>
+		<name>Cryptic Realms</name>
+		<description>A Family Shard, with 325/1400 Skill and Stat Caps... Custom Dungeons and all the facets open including mondain dungeons! New Monsters and artifacts, come and enjoy..</description>
+		<url>crypticrealms.com</url>
+		<patchurl>http://theshard.info/cryptic/patch/patch.rar</patchurl>
+		<updateurl>http://crypticrealms.com</updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>66.60.171.245</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>2</avg_online>
+		<votes>2</votes>
+		<total_votes>12</total_votes>
+		<out>1</out>
+		<total_out>33</total_out>
+		<rank>96</rank>
+	</Shard>
+	<Shard id="17">
+		<status>ACTIVE</status>
+		<name>Aedilis</name>
+		<description>Our current server offers AOS era gameplay with a few SE features. There are four facets available. Our features include custom ores, instance dungeons, weapon/armor augments, multiple housing plots, pet leveling and much more. One word of warning though, we are currently planning a world wipe (may) and an upgrade to 2.0. Come check us out and see what the world of Aedilis can do for you.</description>
+		<url>http://www.aedilis.us</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>aedilis.servegame.com</address>
+		<port>2593</port>
+		<max_online>21</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>2</votes>
+		<total_votes>288</total_votes>
+		<out>1</out>
+		<total_out>282</total_out>
+		<rank>97</rank>
+	</Shard>
+	<Shard id="130">
+		<status>ACTIVE</status>
+		<name>Seventh Heaven</name>
+		<description>Family Friendly Shard.No Skill Cap (so each Char can have all skillls or just have one char) - 300 Stat Cap, Champs, Custom Creatures, Custom Areas,PvP in Felucca. We have Druid, Ranger, Cleric, Bard and Undead Spells System. Friendly Staff, 100% Spawned, New players get a small house and gold and skills are set to gain quickly. Easy rez. Become Member on web page to keep up on all that is happening in the game.</description>
+		<url>http://lunaticthrasher.fatcow.com/seventhheaven/index.php</url>
+		<patchurl>http://lunaticthrasher.fatcow.com/Downloadfiles/CUOpatchV1.txt</patchurl>
+		<updateurl>http://lunaticthrasher.fatcow.com/Downloadfiles/changelog.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.58.231.68</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>2</votes>
+		<total_votes>63</total_votes>
+		<out>2</out>
+		<total_out>110</total_out>
+		<rank>98</rank>
+	</Shard>
+	<Shard id="264">
+		<status>ACTIVE</status>
+		<name>Champion of Virtues</name>
+		<description>RP All Facet Shard, 300 stats / 1000 skills , Newbie starting area with skill stone &amp; race stone optional . Many quests some custom for this shard only. New &amp; some revamped systems like cooking , harvesting, crafting ect... Great Tutor npcs to help the new player to helping a vet with new systems. Some custom patches. Mature staff</description>
+		<url>www.championofvirtues.com</url>
+		<patchurl>http://www.championofvirtues.com/TownPatch1/Town1.rar</patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>72.240.20.16</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>2</votes>
+		<total_votes>26</total_votes>
+		<out>4</out>
+		<total_out>67</total_out>
+		<rank>99</rank>
+	</Shard>
+	<Shard id="13">
+		<status>ACTIVE</status>
+		<name>Angels Of Heaven</name>
+		<description>Role Play And Pvp Mondain's Legacy Version Need Latest Osi Patch Client 5.0.9.1 ..</description>
+		<url>http://www.angelsofheavensite.org/</url>
+		<patchurl>http://www.angelsofheavensite.org/patches/patchlist.txt</patchurl>
+		<updateurl>http://www.angelsofheavensite.org/patches/changelog.txt</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>angelsofheaven.no-ip.info</address>
+		<port>2593</port>
+		<max_online>7</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>1</avg_online>
+		<votes>2</votes>
+		<total_votes>38</total_votes>
+		<out>3</out>
+		<total_out>102</total_out>
+		<rank>100</rank>
+	</Shard>
+	<Shard id="16">
+		<status>ACTIVE</status>
+		<name>An Nox</name>
+		<description>Good ol' days of Minoc &amp; Vesper * Loot Sharing * LOS Thiefing * Random Encounters * Classes * Slot Machines * Free Fantasy Weapons *
+
+*You must be Scottish because you just got Kilt *</description>
+		<url>http://annox.no-ip.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>annox.no-ip.com</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>2</votes>
+		<total_votes>24</total_votes>
+		<out>1</out>
+		<total_out>56</total_out>
+		<rank>101</rank>
+	</Shard>
+	<Shard id="283">
+		<status>ACTIVE</status>
+		<name>Realm of Shadows</name>
+		<description>Family Shard, Full Skills, Fast Gains, No PKs, Events, Customs, Quests, Town Housing, Friendly Players, Continuous Development. with More Quests Items Locations to Come! Levelable Characters, Levelable Items, Weapons, Clothing, Pet Leveling. Join us Today!</description>
+		<url>http://www.realmofshadowsonline.com/</url>
+		<patchurl>http://site.partystuffcloseouts.com/UO/patch32207G1.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>realmofshadowsonline.no-ip.com</address>
+		<port>2593</port>
+		<max_online>19</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>4</avg_online>
+		<votes>2</votes>
+		<total_votes>11</total_votes>
+		<out>4</out>
+		<total_out>82</total_out>
+		<rank>102</rank>
+	</Shard>
+	<Shard id="356">
+		<status>ACTIVE</status>
+		<name>Shady Haven</name>
+		<description>Attentive staff! The best in balanced game play.  Hybrid LBR, AOS, SE, best things from each incarnation. 800 Skill limit, 285 stat limit, MACROING ALLOWED! PVP/PVM no Trammel, 18 ores, new leathers and woods, custom quests, player owned buildings in town, high speed connection, player commands, enhanced archery system, auction system, and much more.</description>
+		<url>www.shadyhaven.org</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>shadyhaven.org</address>
+		<port>2593</port>
+		<max_online>7</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>2</votes>
+		<total_votes>39</total_votes>
+		<out>1</out>
+		<total_out>47</total_out>
+		<rank>103</rank>
+	</Shard>
+	<Shard id="633">
+		<status>DOWN</status>
+		<name>In Vas Nox</name>
+		<description>AOS No skill cap, 3/6 PvP, Fast skill gain. Old school AOS</description>
+		<url>http://ivn.digmeh.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>213.94.147.144</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>2</votes>
+		<total_votes>2</total_votes>
+		<out>1</out>
+		<total_out>1</total_out>
+		<rank>104</rank>
+	</Shard>
+	<Shard id="198">
+		<status>ACTIVE</status>
+		<name>Moonshadow</name>
+		<description>Customs ,  stealable rares, 120 most skills on one character. Many housing options available ,great crafting .</description>
+		<url>http://moonshadowfun.com/</url>
+		<patchurl>http://www.moonshadowfun.com/msconuo1a.rar</patchurl>
+		<updateurl>http://moonshadowfun.com/</updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>72.231.159.92</address>
+		<port>2593</port>
+		<max_online>35</max_online>
+		<cur_online>9</cur_online>
+		<avg_online>5</avg_online>
+		<votes>2</votes>
+		<total_votes>26</total_votes>
+		<out>4</out>
+		<total_out>162</total_out>
+		<rank>105</rank>
+	</Shard>
+	<Shard id="554">
+		<status>ACTIVE</status>
+		<name>Zwei Monde</name>
+		<description>Deutscher Rollenspielshard mit 3 Facetten, 720 Skill-/255 Statpunkten die sofort bei Charerstellung verteilt werden k&ouml;nnen, da unser Augenmerk auf RP und nicht auf Skillgaining liegt.</description>
+		<url>http://www.zwei-monde.de</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>GER</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>87.106.15.157</address>
+		<port>2593</port>
+		<max_online>13</max_online>
+		<cur_online>8</cur_online>
+		<avg_online>3</avg_online>
+		<votes>2</votes>
+		<total_votes>4</total_votes>
+		<out>2</out>
+		<total_out>12</total_out>
+		<rank>106</rank>
+	</Shard>
+	<Shard id="20">
+		<status>ACTIVE</status>
+		<name>World War III</name>
+		<description>A custom designed map with many unique features. Felucca ruleset only with AOS features. New unique content being added, see forums for all the details</description>
+		<url>http://www.w-w-iii.com/</url>
+		<patchurl>http://www.w-w-iii.1accesshost.com/WorldWarIII.txt</patchurl>
+		<updateurl>http://www.w-w-iii.1accesshost.com/Patchdescription.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>24.14.128.118</address>
+		<port>2593</port>
+		<max_online>12</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>2</votes>
+		<total_votes>2</total_votes>
+		<out>2</out>
+		<total_out>64</total_out>
+		<rank>107</rank>
+	</Shard>
+	<Shard id="639">
+		<status>DOWN</status>
+		<name>Holy Conquest UO</name>
+		<description>Realism based shard with plenty of custom scripts without straying to far from traditional UO.</description>
+		<url>http://holyconquestuo.bravehost.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>172.189.149.175</address>
+		<port>2508</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>3</out>
+		<total_out>3</total_out>
+		<rank>108</rank>
+	</Shard>
+	<Shard id="649">
+		<status>DOWN</status>
+		<name>Empires</name>
+		<description>Empires is a fun shard where anything goes. We have content from all Expansion packs as well as custom content and scripts to make your game experience more enjoyable. The only thing I ask is that you respect every one else.</description>
+		<url>http://empires.freeforums.org/portal.php</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>empires.bounceme.net</address>
+		<port>2593</port>
+		<max_online>1</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>1</out>
+		<total_out>1</total_out>
+		<rank>109</rank>
+	</Shard>
+	<Shard id="640">
+		<status>ACTIVE</status>
+		<name>WoW UO</name>
+		<description>ML Era Shard, Unlimited Skill Cap (GM as many skills as you want) 250/275 Stat Cap, 3/6 FC/FCR, 3x 75 Point Skill Balls on 1st New Character, 2 Houses per Account, 4 Facets (Felucca rules) + Haven Island for training, Daily Rares, and more...</description>
+		<url>http://wowuo.5gbfree.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>64.180.42.111</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>1</out>
+		<total_out>1</total_out>
+		<rank>110</rank>
+	</Shard>
+	<Shard id="644">
+		<status>ACTIVE</status>
+		<name>Realm of Darkness</name>
+		<description>Rather your new to UO or new to our server we welcome you with open arms. Loads of custom Items, monsters, quest. all skills 120, We also have friendly staff.</description>
+		<url>http://www.freewebs.com/maverickser/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>207.255.209.229</address>
+		<port>2593</port>
+		<max_online>1</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>1</out>
+		<total_out>1</total_out>
+		<rank>111</rank>
+	</Shard>
+	<Shard id="637">
+		<status>ACTIVE</status>
+		<name>Underworld</name>
+		<description>Join the epic battle of Lycan vs. Vampire on this exciting shard...............</description>
+		<url>http://home.comcast.net/~blazin-spirit/UW1.html</url>
+		<patchurl>http://home.comcast.net/~malkariss/Hues.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>71.227.152.172</address>
+		<port>2593</port>
+		<max_online>1</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>5</out>
+		<total_out>5</total_out>
+		<rank>112</rank>
+	</Shard>
+	<Shard id="89">
+		<status>ACTIVE</status>
+		<name>In Por Ylem</name>
+		<description>Ukrainian server based on UO'99 (Pre-AOS) with elements of ML &amp; Siege Perlious. Unique old style pvp, duel &amp; tournament system, bounty hunting, rares, custom ml housing, daily events &amp; encounters.
+</description>
+		<url>http://ultima.alkar.net</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>uo.alkar.net</address>
+		<port>2593</port>
+		<max_online>60</max_online>
+		<cur_online>5</cur_online>
+		<avg_online>6</avg_online>
+		<votes>1</votes>
+		<total_votes>388</total_votes>
+		<out>4</out>
+		<total_out>611</total_out>
+		<rank>113</rank>
+	</Shard>
+	<Shard id="520">
+		<status>ACTIVE</status>
+		<name>Cit&eacute; Perdue 2</name>
+		<description>All Map Spawned at 100% - Skill Cap 1000 ( bonus +100 max ) - Stat Caps 450 ( Bonus + 50 max ) - Personnal Token Reward System - BOD Taming ( BOD for all skill it's in developpment ) - Custom Resource- News System - All Gargoyles Tools - All Runic Tools ( Saw, Hammer, Sewingkit, .... ) - Advenced Archery System - Faction System - Res Kill Protect - Town House System - Auto Tournament System - Personnal Garden System - more than 20 quest added</description>
+		<url>http://digital-production.no-ip.org/cp2/</url>
+		<patchurl>http://users.skynet.be/digital-production/cp2/staticscp-01.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>digital-production.no-ip.org</address>
+		<port>2593</port>
+		<max_online>14</max_online>
+		<cur_online>7</cur_online>
+		<avg_online>2</avg_online>
+		<votes>1</votes>
+		<total_votes>16</total_votes>
+		<out>5</out>
+		<total_out>35</total_out>
+		<rank>114</rank>
+	</Shard>
+	<Shard id="332">
+		<status>ACTIVE</status>
+		<name>UOasis</name>
+		<description>Pre-AOS, Custom Copper, Silver, Gold system, Very friendly relaxed enviroment.  No felucca.  Over 1 year experience hosting shard.  Medium skill gain.</description>
+		<url>http://www.game-gate.com/UO</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>uoasis.servegame.com</address>
+		<port>2593</port>
+		<max_online>8</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>1</avg_online>
+		<votes>1</votes>
+		<total_votes>40</total_votes>
+		<out>0</out>
+		<total_out>69</total_out>
+		<rank>115</rank>
+	</Shard>
+	<Shard id="314">
+		<status>ACTIVE</status>
+		<name>Age of Myths</name>
+		<description>Unique race/class system</description>
+		<url>http://forum.mythosuo.net</url>
+		<patchurl>download.mythosuo.net/Age_of_Myths/Patch01.rar</patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>www.mythosuo.net</address>
+		<port>2595</port>
+		<max_online>8</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>2</avg_online>
+		<votes>1</votes>
+		<total_votes>19</total_votes>
+		<out>1</out>
+		<total_out>39</total_out>
+		<rank>116</rank>
+	</Shard>
+	<Shard id="626">
+		<status>ACTIVE</status>
+		<name>Dragon's Kingdom II</name>
+		<description>buy or work skills and stats up... all skills can be gm'ed... pvp or pvm... this is not a true roleplaying shard...</description>
+		<url>http://www.freewebs.com/dragonskingdomii</url>
+		<patchurl>http://www.freewebs.com/dragonskingdomii/hues.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>12.226.164.56</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>2</avg_online>
+		<votes>1</votes>
+		<total_votes>2</total_votes>
+		<out>3</out>
+		<total_out>7</total_out>
+		<rank>117</rank>
+	</Shard>
+	<Shard id="350">
+		<status>ACTIVE</status>
+		<name>Yaks UO World : Undead Realms</name>
+		<description>RunUO 1.0 Free Shard.
+New custom items and crafts for players with a good friendly group of players.</description>
+		<url>http://yaksuoworld.co.uk</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>yaksuoworld.co.uk</address>
+		<port>2594</port>
+		<max_online>6</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>14</total_votes>
+		<out>1</out>
+		<total_out>29</total_out>
+		<rank>118</rank>
+	</Shard>
+	<Shard id="75">
+		<status>ACTIVE</status>
+		<name>lord fox strikes again</name>
+		<description>race/class/level shard with lots of extras</description>
+		<url>http://www.freewebs.com/lordfoxstrikesagain01</url>
+		<patchurl>http://www.freewebs.com/lordfoxstrikesagain01/colorspatch.rar</patchurl>
+		<updateurl>http://www.freewebs.com/lordfoxstrikesagain01/freezes.rar</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.227.181.98</address>
+		<port>2593</port>
+		<max_online>7</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>4</total_votes>
+		<out>0</out>
+		<total_out>90</total_out>
+		<rank>119</rank>
+	</Shard>
+	<Shard id="593">
+		<status>ACTIVE</status>
+		<name>GraveLordII</name>
+		<description>pvm/pvp , quests will be added soon , some customs, useing Daat99token system,stat cap at 250 with scroll,skill cap at 1000 , no regs needed ,</description>
+		<url>www.freewebs.com/wshep13/index.htm</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>24.95.46.100</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>2</total_votes>
+		<out>5</out>
+		<total_out>13</total_out>
+		<rank>120</rank>
+	</Shard>
+	<Shard id="397">
+		<status>ACTIVE</status>
+		<name>BlackKnights</name>
+		<description>SE, factions, no regs,suppy room dailyevents skillgate</description>
+		<url>http://www.freewebs.com/blackknights06/</url>
+		<patchurl>http://www.blackknightsrule.com/patchbk13.txt</patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>65.100.141.6</address>
+		<port>2593</port>
+		<max_online>26</max_online>
+		<cur_online>4</cur_online>
+		<avg_online>6</avg_online>
+		<votes>1</votes>
+		<total_votes>2</total_votes>
+		<out>8</out>
+		<total_out>59</total_out>
+		<rank>121</rank>
+	</Shard>
+	<Shard id="87">
+		<status>ACTIVE</status>
+		<name>Alexandria</name>
+		<description>Official EasyUO Shard - family oriented, encourages both PVP and PVM, tons of original content. Macroing for skill is encouraged, resource farming is bannable.</description>
+		<url>http://www.lexiashard.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>lexia.easyuo.com</address>
+		<port>2593</port>
+		<max_online>80</max_online>
+		<cur_online>37</cur_online>
+		<avg_online>39</avg_online>
+		<votes>1</votes>
+		<total_votes>6</total_votes>
+		<out>3</out>
+		<total_out>120</total_out>
+		<rank>122</rank>
+	</Shard>
+	<Shard id="625">
+		<status>ACTIVE</status>
+		<name>Draig World</name>
+		<description>TriggerHappyLANs own server - fun based environment with some unusual twists.</description>
+		<url>http://www.triggerhappylans.co.uk/forum/index.php/board,14.0.html</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>drake.kicks-ass.org</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>4</out>
+		<total_out>7</total_out>
+		<rank>123</rank>
+	</Shard>
+	<Shard id="602">
+		<status>ACTIVE</status>
+		<name>All Day Killing</name>
+		<description>We are back and ready for another round come play All Day Killing the best PK shard. Also we need a very talented scripter.</description>
+		<url>http://www.alldaykilling.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>alldaykilling.servegame.com</address>
+		<port>2593</port>
+		<max_online>14</max_online>
+		<cur_online>4</cur_online>
+		<avg_online>2</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>6</out>
+		<total_out>10</total_out>
+		<rank>124</rank>
+	</Shard>
+	<Shard id="375">
+		<status>ACTIVE</status>
+		<name>Forgotten Rites</name>
+		<description>Fun,small Shard, Staff that care for players and very friendly come join and see the difference it can make.</description>
+		<url>http://www.freewebs.com/mystman301/index.htm</url>
+		<patchurl></patchurl>
+		<updateurl>Patches are found on Website</updateurl>
+		<era>SE</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>67.171.253.47</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>7</total_votes>
+		<out>0</out>
+		<total_out>65</total_out>
+		<rank>125</rank>
+	</Shard>
+	<Shard id="587">
+		<status>ACTIVE</status>
+		<name>Divided Destiny</name>
+		<description>A highly customized map including new cities and dungeons.  Role Play shard with a staff willing to facilitate good storylines.</description>
+		<url>http://uodivideddestiny.tripod.com/</url>
+		<patchurl>http://www.frogusa.com/patch1.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>66.169.84.43</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>6</out>
+		<total_out>19</total_out>
+		<rank>126</rank>
+	</Shard>
+	<Shard id="3">
+		<status>ACTIVE</status>
+		<name>UOGamers: Demise</name>
+		<description>Officially Sponsored by RunUO: Largest OSI-Type shard ever!
+
+The only thing closer to OSI is OSI.
+
+OSI is ML, we are ML.
+
+
+
+
+</description>
+		<url>http://www.uodemise.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>login.uodemise.com</address>
+		<port>2593</port>
+		<max_online>576</max_online>
+		<cur_online>445</cur_online>
+		<avg_online>370</avg_online>
+		<votes>1</votes>
+		<total_votes>4</total_votes>
+		<out>3</out>
+		<total_out>221</total_out>
+		<rank>127</rank>
+	</Shard>
+	<Shard id="344">
+		<status>ACTIVE</status>
+		<name>Serpent's Pit</name>
+		<description>PvP Shard Can Have 120 all skills Staff full Don't ask</description>
+		<url>http://serpents-pit.org/uo</url>
+		<patchurl>http://www.serpents-pit.org/download/patchlist.txt</patchurl>
+		<updateurl>http://www.serpents-pit.org/download/changelog.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.128.22.144</address>
+		<port>2593</port>
+		<max_online>21</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>1</votes>
+		<total_votes>3</total_votes>
+		<out>1</out>
+		<total_out>52</total_out>
+		<rank>128</rank>
+	</Shard>
+	<Shard id="377">
+		<status>ACTIVE</status>
+		<name>Oracle Shores</name>
+		<description>5 Facets, Custom Scripts, Staff in multiple time zones, Great Players.  Previously known as &quot;Shienar reborn&quot;</description>
+		<url>http://shienarreborn.com/</url>
+		<patchurl>http://shienarreborn.com/BRverdata.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>64.34.162.13</address>
+		<port>2610</port>
+		<max_online>35</max_online>
+		<cur_online>8</cur_online>
+		<avg_online>7</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>1</out>
+		<total_out>42</total_out>
+		<rank>129</rank>
+	</Shard>
+	<Shard id="218">
+		<status>ACTIVE</status>
+		<name>Dark Prophecy - Last Chapter</name>
+		<description>Serveur Roleplay francophone, suite sur Runuo du shard sphere Dark Prophecy</description>
+		<url>http://dplc.fr-bb.com/</url>
+		<patchurl>http://draakup.free.fr/DPLC/patch.rar</patchurl>
+		<updateurl>http://dplc.fr-bb.com/Tout-sur-le-Serveur-c2/Nouvelles-f4/Mise-a-jour-Static-t3130.htm</updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>dplastchapter.servegame.com</address>
+		<port>2591</port>
+		<max_online>31</max_online>
+		<cur_online>13</cur_online>
+		<avg_online>5</avg_online>
+		<votes>1</votes>
+		<total_votes>1</total_votes>
+		<out>2</out>
+		<total_out>68</total_out>
+		<rank>130</rank>
+	</Shard>
+	<Shard id="641">
+		<status>DOWN</status>
+		<name>Age Of The Realm</name>
+		<description>New shard ...</description>
+		<url>hfdhdfhdfhdfhdf</url>
+		<patchurl>hdfhdfhdfhdfhdf</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>aotr.no-ip.org</address>
+		<port>2593</port>
+		<max_online>1</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>0</total_out>
+		<rank>131</rank>
+	</Shard>
+	<Shard id="650">
+		<status>DOWN</status>
+		<name>The New Age</name>
+		<description>Sphere 56b shard, last client required. AOS and ML supported. Paintball and PvP Events. Custom PvP, Ores system, Lootables, Player run shops</description>
+		<url>http://thenewage.50webs.com/index.html</url>
+		<patchurl>http://thenewage.50webs.com/ConnectUO.txt</patchurl>
+		<updateurl>http://thenewage.50webs.com/Patchinfo.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>thenewage.chickenkiller.com</address>
+		<port>2593</port>
+		<max_online>1</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>0</total_out>
+		<rank>132</rank>
+	</Shard>
+	<Shard id="638">
+		<status>DOWN</status>
+		<name>Susan</name>
+		<description>Trying to figure this out</description>
+		<url>my.gwu.edu</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>127.0.0.1</address>
+		<port>2593</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>2</total_out>
+		<rank>133</rank>
+	</Shard>
+	<Shard id="635">
+		<status>DOWN</status>
+		<name>Burning Castles</name>
+		<description>Just a place to play</description>
+		<url>http://www.geocities.com/skinner_photo/burn_castles.html</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>72.147.47.44</address>
+		<port>2593</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>3</out>
+		<total_out>3</total_out>
+		<rank>134</rank>
+	</Shard>
+	<Shard id="643">
+		<status>DOWN</status>
+		<name>Requiem: An Ultima Online Experience</name>
+		<description>A roleplaying experience like none other</description>
+		<url>http://requiemshard.darkenedrealm.net</url>
+		<patchurl>http://requiemshard.darkenedrealm.net/Requiem%20April%2007.rar</patchurl>
+		<updateurl>April 07 Patch</updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>67.84.59.30</address>
+		<port>2593</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>0</total_out>
+		<rank>135</rank>
+	</Shard>
+	<Shard id="647">
+		<status>DOWN</status>
+		<name>Ebonheart</name>
+		<description>Iish only
+No skill cap</description>
+		<url>http://www.hotmail.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>192.168.1.102</address>
+		<port>2593</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>0</total_out>
+		<rank>136</rank>
+	</Shard>
+	<Shard id="646">
+		<status>ACTIVE</status>
+		<name>Crystal Realm</name>
+		<description>A new custom world. We don't have auto-account so you must register on our webpage.
+We are still undergoing changes please check our news.</description>
+		<url>http://www.freewebs.com/crystalrealmsuo/</url>
+		<patchurl>http://www.freewebs.com/crystalrealmsuo/CRWPatchesFolder/CRWPatch0001.rar</patchurl>
+		<updateurl>http://www.freewebs.com/crystalrealmsuo/patchinformation.htm</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>crystalrealmuo.no-ip.biz</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>1</total_out>
+		<rank>137</rank>
+	</Shard>
+	<Shard id="651">
+		<status>ACTIVE</status>
+		<name>Valhalla Uo</name>
+		<description>New shard, looking for dedicated people to work with.  visit www.ValhallaUo.co.nr</description>
+		<url>www.valhallauo.co.nr</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>24.57.124.212</address>
+		<port>2593</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>1</total_out>
+		<rank>138</rank>
+	</Shard>
+	<Shard id="569">
+		<status>ACTIVE</status>
+		<name>Midgard 2</name>
+		<description>Storico shard italiano di Ultima Online. Offre nuovi spunti di gioco sia a pvp-ers sia a giocatori di ruolo.
+Lo staff tecnico e lo staff gdr assicurano il massimo impegno per garantire un gioco divertente e appassionante.</description>
+		<url>www.midgardshard.it</url>
+		<patchurl>http://www.webalice.it/tocasia/patch/Midgard2Patcher.exe</patchurl>
+		<updateurl>Patch necessaria per giocare su Midgard. Da applicare su MondainLegacy senza patch OSI.</updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>89.186.67.133</address>
+		<port>2594</port>
+		<max_online>17</max_online>
+		<cur_online>7</cur_online>
+		<avg_online>3</avg_online>
+		<votes>0</votes>
+		<total_votes>8</total_votes>
+		<out>5</out>
+		<total_out>23</total_out>
+		<rank>139</rank>
+	</Shard>
+	<Shard id="595">
+		<status>ACTIVE</status>
+		<name>The Aurora Project</name>
+		<description>New ridables,taming Sys, Evo,s New Staff,DualCore,2GigRam</description>
+		<url>http://www.freewebs.com/the_aurora_project/</url>
+		<patchurl>http://www.freewebs.com/the_aurora_project/</patchurl>
+		<updateurl>http://www.freewebs.com/aurora-files-site/AuroraCustom.rar</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>68.77.109.240</address>
+		<port>2593</port>
+		<max_online>37</max_online>
+		<cur_online>5</cur_online>
+		<avg_online>8</avg_online>
+		<votes>0</votes>
+		<total_votes>4</total_votes>
+		<out>4</out>
+		<total_out>19</total_out>
+		<rank>140</rank>
+	</Shard>
+	<Shard id="270">
+		<status>ACTIVE</status>
+		<name>Alterna-UO</name>
+		<description>No skillcap, no regs, custom scripts, fast skill gains, PVP/PVM Macro ok GM quests GREAT FUN</description>
+		<url>http://www.alterna-uo.net</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.235.21.118</address>
+		<port>2593</port>
+		<max_online>41</max_online>
+		<cur_online>15</cur_online>
+		<avg_online>13</avg_online>
+		<votes>0</votes>
+		<total_votes>4</total_votes>
+		<out>1</out>
+		<total_out>72</total_out>
+		<rank>141</rank>
+	</Shard>
+	<Shard id="608">
+		<status>ACTIVE</status>
+		<name>WoldOfWolfsClan</name>
+		<description>We are having new art work and new ideas for the shard and we having 2.0.0V Now we have that you can kill ships in waters and lote more is coming soon</description>
+		<url>http://members.cox.net/woldofwolfsclan/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>68.231.39.213</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>2</total_votes>
+		<out>1</out>
+		<total_out>7</total_out>
+		<rank>142</rank>
+	</Shard>
+	<Shard id="55">
+		<status>ACTIVE</status>
+		<name>Adjourment To Antiquity</name>
+		<description>Pvp PVM RP Shard- Dedicated server since 2002. Great Custom areas-npcs and artifacts.
+Fast Skill Gains. SE/ML</description>
+		<url>http://www.freewebs.com/ataadmin/index.htm</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>72.201.98.62</address>
+		<port>2593</port>
+		<max_online>15</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>0</votes>
+		<total_votes>41</total_votes>
+		<out>0</out>
+		<total_out>64</total_out>
+		<rank>143</rank>
+	</Shard>
+	<Shard id="208">
+		<status>ACTIVE</status>
+		<name>Sands Of Time</name>
+		<description>Fun family shard and no PVP. Run UO 2.0 server, T1 connection. Fast server. Come join the family fun.</description>
+		<url>http://www.sandsoftimeshard.com</url>
+		<patchurl>http://www.freewebs.com/darkevilny/hues.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>sandsoftimeshard.com</address>
+		<port>2593</port>
+		<max_online>28</max_online>
+		<cur_online>6</cur_online>
+		<avg_online>5</avg_online>
+		<votes>0</votes>
+		<total_votes>2</total_votes>
+		<out>4</out>
+		<total_out>126</total_out>
+		<rank>144</rank>
+	</Shard>
+	<Shard id="610">
+		<status>DOWN</status>
+		<name>Infinite Pearl</name>
+		<description>4/6 Supply Room Pvp, Brit Town pvp. 120 all skills, no Regs.</description>
+		<url>ip.DuaneG.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>66.249.59.108</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>5</out>
+		<total_out>9</total_out>
+		<rank>145</rank>
+	</Shard>
+	<Shard id="618">
+		<status>ACTIVE</status>
+		<name>Quebec Crafters</name>
+		<description>RP/PVP custom ressources,custom monster Many tamable and more...</description>
+		<url>http://quebeccrafters.6te.net/</url>
+		<patchurl>ftp://quebeccrafters.6te.net:Ma503028306274@quebeccrafters.6te.net/uoupdate</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>24.212.20.53</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>2</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>3</out>
+		<total_out>4</total_out>
+		<rank>146</rank>
+	</Shard>
+	<Shard id="563">
+		<status>ACTIVE</status>
+		<name>Zeratuls Downfall</name>
+		<description>Currently a GM Shard! High RP containing mass amounts of custom hues, and custom map, graphics, wings, mounts, levels, and many amazing scripts for you to mess around with! We have the works. Highly custom shard. A must-see for every custom-lover!</description>
+		<url>http://zd.hopto.org/</url>
+		<patchurl>http://zd.hopto.org/zd/Files/ConnectUOPatch/CUOPatch2.txt</patchurl>
+		<updateurl>http://zd.hopto.org/zd/Files/ConnectUOPatch/PatchInfo2.txt</updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>zd.hopto.org</address>
+		<port>2593</port>
+		<max_online>18</max_online>
+		<cur_online>13</cur_online>
+		<avg_online>7</avg_online>
+		<votes>0</votes>
+		<total_votes>4</total_votes>
+		<out>1</out>
+		<total_out>14</total_out>
+		<rank>147</rank>
+	</Shard>
+	<Shard id="418">
+		<status>ACTIVE</status>
+		<name>The Prophecy</name>
+		<description>FULL GDR SHARD</description>
+		<url>http://theprophecy.ac-net.it/</url>
+		<patchurl>http://theprophecy.ac-net.it/tpfiles.rar</patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>MULTI</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>theprophecy.no-ip.biz</address>
+		<port>3275</port>
+		<max_online>34</max_online>
+		<cur_online>12</cur_online>
+		<avg_online>5</avg_online>
+		<votes>0</votes>
+		<total_votes>77</total_votes>
+		<out>4</out>
+		<total_out>100</total_out>
+		<rank>148</rank>
+	</Shard>
+	<Shard id="71">
+		<status>ACTIVE</status>
+		<name>Forbidden Whispers</name>
+		<description>Dedicated server, Custom goodies, Great staff, Lots to do!!</description>
+		<url>www.forbidden-whispers.com</url>
+		<patchurl>http://www.forbidden-whispers.com/fw1.rar</patchurl>
+		<updateurl>http://www.forbidden-whispers.com/bckgrnd.htm</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>71.111.31.186</address>
+		<port>2593</port>
+		<max_online>11</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>2</avg_online>
+		<votes>0</votes>
+		<total_votes>4</total_votes>
+		<out>1</out>
+		<total_out>72</total_out>
+		<rank>149</rank>
+	</Shard>
+	<Shard id="424">
+		<status>ACTIVE</status>
+		<name>Merlin's Playground</name>
+		<description>no skill cap,1000 stat cap</description>
+		<url>http://merlinsplayground.50megs.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>68.188.160.89</address>
+		<port>2593</port>
+		<max_online>10</max_online>
+		<cur_online>7</cur_online>
+		<avg_online>5</avg_online>
+		<votes>0</votes>
+		<total_votes>3</total_votes>
+		<out>4</out>
+		<total_out>46</total_out>
+		<rank>150</rank>
+	</Shard>
+	<Shard id="400">
+		<status>ACTIVE</status>
+		<name>UnrealUO</name>
+		<description>Classic UO Second Age Shard</description>
+		<url>http://uo.unreal.us</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>T2A</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>uoshard.unreal.us</address>
+		<port>2593</port>
+		<max_online>18</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>2</avg_online>
+		<votes>0</votes>
+		<total_votes>4</total_votes>
+		<out>0</out>
+		<total_out>28</total_out>
+		<rank>151</rank>
+	</Shard>
+	<Shard id="630">
+		<status>DOWN</status>
+		<name>apo-uo</name>
+		<description>Super bon serveur francophone</description>
+		<url>http://apouo.free.fr/phpbb2/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>142.217.246.246</address>
+		<port>2593</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>1</total_out>
+		<rank>152</rank>
+	</Shard>
+	<Shard id="621">
+		<status>DOWN</status>
+		<name>The New Way Beyond UO</name>
+		<description>200 skills cap*10800 max cap* and other nice scripts. drop by some time and check us out</description>
+		<url>http://www.gamingww.com/waybeyonduo</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>hellinc.ath.cx</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>3</out>
+		<total_out>4</total_out>
+		<rank>153</rank>
+	</Shard>
+	<Shard id="622">
+		<status>DOWN</status>
+		<name>Acrid Garden</name>
+		<description>Its Back</description>
+		<url>http://www.freewebs.com/thebumperguy/</url>
+		<patchurl>http://www.thebumperguy.biz/DataFiles.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>69.139.123.117</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>3</out>
+		<total_out>5</total_out>
+		<rank>154</rank>
+	</Shard>
+	<Shard id="613">
+		<status>ACTIVE</status>
+		<name>Kindom of Connemara</name>
+		<description>OSI Clone SE Era, PK, PVP, Macro, AFK allow</description>
+		<url>http://kingdomofconnemara.8k.com/index.html</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>kingdomofconnemara.no-ip.org</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>1</total_out>
+		<rank>155</rank>
+	</Shard>
+	<Shard id="612">
+		<status>ACTIVE</status>
+		<name>KarnageByKantra</name>
+		<description>120 Skills  Total Crafter's Package  Hair  Wings +50 Quests  Custom Monsters  U Want It! We Got It!  Great Staff  Come Home To Karnage!</description>
+		<url>http://KarnageByKantra.tripod.com/</url>
+		<patchurl>http://www.fileden.com/files/2007/1/8/613026/V4.rar</patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>24.182.100.98</address>
+		<port>2595</port>
+		<max_online>10</max_online>
+		<cur_online>4</cur_online>
+		<avg_online>2</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>4</out>
+		<total_out>9</total_out>
+		<rank>156</rank>
+	</Shard>
+	<Shard id="634">
+		<status>ACTIVE</status>
+		<name>Oregon Server</name>
+		<description>mondains lagacy pk server we have casino check us out and help us grow!!</description>
+		<url>http://www.freewebs.com/oregonshard/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>216.134.160.236</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>2</total_out>
+		<rank>157</rank>
+	</Shard>
+	<Shard id="603">
+		<status>ACTIVE</status>
+		<name>Land of Timea</name>
+		<description>Full Leveling System, Evo Mercs/Drags/Hiryus, Great Fun!</description>
+		<url>http://landoftimea2.proboards106.com/index.cgi</url>
+		<patchurl>http://h1.ripway.com/Zaphkiel26/ConnectUO.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>69.205.150.63</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>3</total_out>
+		<rank>158</rank>
+	</Shard>
+	<Shard id="616">
+		<status>DOWN</status>
+		<name>KraZy PvP</name>
+		<description>AoS Fun! Great pvp Spell Crafts and more</description>
+		<url>http://www.freewebs.com/jason107/index.htm</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>207.119.219.199</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>4</out>
+		<total_out>5</total_out>
+		<rank>159</rank>
+	</Shard>
+	<Shard id="624">
+		<status>DOWN</status>
+		<name>Drilikath Online</name>
+		<description>Drilikath is a custom server, enjoy new monsters items quests, and a fun player base.</description>
+		<url>Http://www.drilikath.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>drilikath.no-ip.info</address>
+		<port>2593</port>
+		<max_online>1</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>2</total_out>
+		<rank>160</rank>
+	</Shard>
+	<Shard id="619">
+		<status>DOWN</status>
+		<name>Dragon Myst</name>
+		<description>Family Shard  Many custom animations and items. Tamers and Crafters Paradise</description>
+		<url>http://myweb.cableone.net/wolff/myst.htm</url>
+		<patchurl>http://myweb.cableone.net/wolff/Patch.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>24.119.210.161</address>
+		<port>2595</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>6</total_out>
+		<rank>161</rank>
+	</Shard>
+	<Shard id="631">
+		<status>ACTIVE</status>
+		<name>Crystal Eve</name>
+		<description>A new world, made just for you!  900 skill limit, 250 stats, difficult Felucca, nice customs, old school gains (gotta earn them).</description>
+		<url>none</url>
+		<patchurl></patchurl>
+		<updateurl>none</updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>72.208.96.183</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>1</total_out>
+		<rank>162</rank>
+	</Shard>
+	<Shard id="614">
+		<status>DOWN</status>
+		<name>Death Realm United</name>
+		<description>anything goes pvp adult content shard</description>
+		<url>http://kryptofbetrail.createforum.net/index.php?sid=dc6fdaddb20137f2388b17f2ea5a4bf7&amp;mforum=kryptofbetrail</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>65.191.109.165</address>
+		<port>2593</port>
+		<max_online>1</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>1</total_out>
+		<rank>163</rank>
+	</Shard>
+	<Shard id="627">
+		<status>DOWN</status>
+		<name>Supremacy 25</name>
+		<description>Publish 25 Based PVP AOS Server</description>
+		<url>http://www.supremacy25.pwp.blueyonder.co.uk/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>PvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>82.45.75.16</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>3</total_out>
+		<rank>164</rank>
+	</Shard>
+	<Shard id="577">
+		<status>ACTIVE</status>
+		<name>Anatolia</name>
+		<description>One of the Turkiye's Oldest Runuo Shards</description>
+		<url>http://uo.mix.gen.tr</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>TUR</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>uo1.mix.gen.tr</address>
+		<port>3300</port>
+		<max_online>8</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>3</total_votes>
+		<out>0</out>
+		<total_out>15</total_out>
+		<rank>165</rank>
+	</Shard>
+	<Shard id="366">
+		<status>ACTIVE</status>
+		<name>Nianris</name>
+		<description>Farkli Olani Hissetmeye Hazir Olun</description>
+		<url>www.nianris.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>TUR</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>62.68.202.226</address>
+		<port>2593</port>
+		<max_online>136</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>6</avg_online>
+		<votes>0</votes>
+		<total_votes>246</total_votes>
+		<out>0</out>
+		<total_out>176</total_out>
+		<rank>166</rank>
+	</Shard>
+	<Shard id="175">
+		<status>ACTIVE</status>
+		<name>Awakening Second Edition</name>
+		<description>EN:UoAse is an old style shard. Brought to you from the experience of UoNGi and UoAwakening, we are glad to offer to you a new evolution, with the latest version of Uo and an increase of Magic Spells coming from new skills like Chivalry, Bushido, Ninjitsu</description>
+		<url>http://uoase.ac-net.it</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>81.31.157.14</address>
+		<port>2502</port>
+		<max_online>61</max_online>
+		<cur_online>47</cur_online>
+		<avg_online>29</avg_online>
+		<votes>0</votes>
+		<total_votes>11</total_votes>
+		<out>0</out>
+		<total_out>45</total_out>
+		<rank>167</rank>
+	</Shard>
+	<Shard id="476">
+		<status>DOWN</status>
+		<name>Way Beyond UO</name>
+		<description>Family Fun UO shard, easy skill gains and much more. Friendly staff and friendly community. Come check us out today!</description>
+		<url>http://www.gamingww.com/waybeyonduo</url>
+		<patchurl>http://www.gamingww.com/downloads/hues.rar</patchurl>
+		<updateurl>Hues Patch</updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>hellinc.ath.cx</address>
+		<port>2593</port>
+		<max_online>8</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>2</total_votes>
+		<out>1</out>
+		<total_out>21</total_out>
+		<rank>168</rank>
+	</Shard>
+	<Shard id="589">
+		<status>ACTIVE</status>
+		<name>The Shard Alliance</name>
+		<description>This is a Non Production Shard. This Shard is For training Staff For the Alliance Shard, We have Weekly Training Classes for How to do ART And More! Scripting Classes Soon.</description>
+		<url>http://theshard.info</url>
+		<patchurl>http://www.forgedworlds.com/alliance/AlliancePatch01.txt</patchurl>
+		<updateurl>http://www.forgedworlds.com/alliance/Alliance.txt</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>fwts.no-ip.org</address>
+		<port>2594</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>2</out>
+		<total_out>8</total_out>
+		<rank>169</rank>
+	</Shard>
+	<Shard id="235">
+		<status>DOWN</status>
+		<name>Raven and Spikes Retreat</name>
+		<description>family shard, lots of customs</description>
+		<url>http://www.webspawner.com/users/srretreat/index.html</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>spikesok.no-ip.info</address>
+		<port>2593</port>
+		<max_online>8</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>0</votes>
+		<total_votes>4</total_votes>
+		<out>1</out>
+		<total_out>48</total_out>
+		<rank>170</rank>
+	</Shard>
+	<Shard id="542">
+		<status>DOWN</status>
+		<name>UO Fire Reborn</name>
+		<description>Pre UOR with some of the better AOS features. Custom Map with new cities and lands. More info at www.uofire.com</description>
+		<url>http://www.uofire.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>zorce.myvnc.com</address>
+		<port>2593</port>
+		<max_online>1</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>1</out>
+		<total_out>17</total_out>
+		<rank>171</rank>
+	</Shard>
+	<Shard id="258">
+		<status>ACTIVE</status>
+		<name>The HyperCube 2</name>
+		<description>The HyperCube is a unique experience like no other server. Fight for one of the nine custom factions, each with their own custom spell or crafting class, or chose to remain neutral and Interact with endless inhouse custom system, such as or duel creature breading system. We strive to keep balance in our economy, PvP, and items, while offering you new and exciting experience never before seen. Come see what you've been missing....</description>
+		<url>http://www.TheHyperCube.net</url>
+		<patchurl>http://www.thehypercube.net/Downloads/connectuo.rar</patchurl>
+		<updateurl>www.thehypercube.net</updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>tehkhaz.servegame.com</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>12</total_votes>
+		<out>0</out>
+		<total_out>40</total_out>
+		<rank>172</rank>
+	</Shard>
+	<Shard id="51">
+		<status>ACTIVE</status>
+		<name>Howling Moon</name>
+		<description>Friendly staff, ML/Fast gains/No Skill Cap/pvm/pvp</description>
+		<url>http://howlingmoon.servegame.com/</url>
+		<patchurl>http://www.fileden.com/files/2006/6/8/56695/hmmmoon.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>howlingmoon.no-ip.info</address>
+		<port>777</port>
+		<max_online>25</max_online>
+		<cur_online>4</cur_online>
+		<avg_online>2</avg_online>
+		<votes>0</votes>
+		<total_votes>31</total_votes>
+		<out>0</out>
+		<total_out>99</total_out>
+		<rank>173</rank>
+	</Shard>
+	<Shard id="374">
+		<status>ACTIVE</status>
+		<name>Fahr Realm</name>
+		<description>A family orientated server going on its third year of fun and roleplaying adventure.</description>
+		<url>http://208.56.243.115/bayjette/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>69.14.151.147</address>
+		<port>2593</port>
+		<max_online>21</max_online>
+		<cur_online>4</cur_online>
+		<avg_online>3</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>1</out>
+		<total_out>35</total_out>
+		<rank>174</rank>
+	</Shard>
+	<Shard id="243">
+		<status>ACTIVE</status>
+		<name>Wood Chalice</name>
+		<description>Intricate Roleplay - woven through quests for groups and individuals. Constant broad storylines, continual mini-plots. Family atmosphere, all welcome. Not Hiring Staff Volunteers.</description>
+		<url>http://www.WoodChalice.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>68.41.153.12</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>0</out>
+		<total_out>32</total_out>
+		<rank>175</rank>
+	</Shard>
+	<Shard id="572">
+		<status>ACTIVE</status>
+		<name>Sol'Aaias</name>
+		<description>Serveur only Francophone rp and free, new system for players ect ... 60 accounts</description>
+		<url>http://perso.orange.fr/uo-sol/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>sol-uo.no-ip.info</address>
+		<port>2593</port>
+		<max_online>10</max_online>
+		<cur_online>2</cur_online>
+		<avg_online>2</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>9</total_out>
+		<rank>176</rank>
+	</Shard>
+	<Shard id="559">
+		<status>DOWN</status>
+		<name>Vratia UO</name>
+		<description>80 skills on start, no skillcap, fast gains, fast champion spawns, great staff. Enjoy!</description>
+		<url>www.vratia.yoyo.pl</url>
+		<patchurl></patchurl>
+		<updateurl>www.google.pl</updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>vratia.no-ip.org</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>32</total_votes>
+		<out>0</out>
+		<total_out>30</total_out>
+		<rank>177</rank>
+	</Shard>
+	<Shard id="553">
+		<status>ACTIVE</status>
+		<name>World's Heart 2</name>
+		<description>Free Ultima Online Shard</description>
+		<url>http://wh2.ru</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>80.92.100.46</address>
+		<port>2593</port>
+		<max_online>0</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>2</total_votes>
+		<out>1</out>
+		<total_out>12</total_out>
+		<rank>178</rank>
+	</Shard>
+	<Shard id="546">
+		<status>DOWN</status>
+		<name>Rebirth Abrupt Utopia</name>
+		<description>6/6 pvm/pvp Custom Quests/Spawns /Races/ Fast Gains/See Forums For More Info.</description>
+		<url>http://www.geocities.com/badboy091234/index.htm</url>
+		<patchurl>http://rebirthabruptutopia.tripod.com/hues.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>64.130.97.237</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>17</total_out>
+		<rank>179</rank>
+	</Shard>
+	<Shard id="539">
+		<status>ACTIVE</status>
+		<name>Mystic Dreams of Avalon</name>
+		<description>aos, custom artwork, towns, dungeons, items,</description>
+		<url>http://www.mysticdreamsofavalon.com</url>
+		<patchurl>http://www.mysticdreamsofavalon.com/2L.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>75.132.11.118</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>13</total_out>
+		<rank>180</rank>
+	</Shard>
+	<Shard id="490">
+		<status>DOWN</status>
+		<name>Uo Chile</name>
+		<description>Servidor ML. Rol/PvM/PvP
+Mejor server chileno, mucho &eacute;nfasis al rol, mundo de reinos, buenos eventos, sorpresas y mucho mas.</description>
+		<url>http://ultima.frag.cl/web/home.php</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>SPN</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>uo.frag.cl</address>
+		<port>2593</port>
+		<max_online>27</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>7</avg_online>
+		<votes>0</votes>
+		<total_votes>25</total_votes>
+		<out>1</out>
+		<total_out>34</total_out>
+		<rank>181</rank>
+	</Shard>
+	<Shard id="529">
+		<status>ACTIVE</status>
+		<name>Ethernal Realm</name>
+		<description>Events, Customs, No Skill Cap, No PKs, Paintball, T1,4gb RAM</description>
+		<url>http://etherealrealms-uo.com</url>
+		<patchurl> http://erfiles.com/hues.rar</patchurl>
+		<updateurl>http://erfiles.com/uo4.rar</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>72.232.64.106</address>
+		<port>2593</port>
+		<max_online>83</max_online>
+		<cur_online>42</cur_online>
+		<avg_online>31</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>5</out>
+		<total_out>24</total_out>
+		<rank>182</rank>
+	</Shard>
+	<Shard id="44">
+		<status>DOWN</status>
+		<name>Endeverum</name>
+		<description>Custom Artwork, friendly staff, custom decoration and dungeons/lands. Level system, tons of new items, npcs, and much more. *Custom Patch Required!*</description>
+		<url>http://www.freewebs.com/xenoneo226/index.htm</url>
+		<patchurl>http://www.colchagoff.com/chad/EndeverumPatch2.8.3.rar</patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>72.240.201.76</address>
+		<port>2593</port>
+		<max_online>8</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>0</out>
+		<total_out>73</total_out>
+		<rank>183</rank>
+	</Shard>
+	<Shard id="42">
+		<status>DOWN</status>
+		<name>Empires of Illusion</name>
+		<description>Family Shard, Roleplay, PvP in Fel, Custom Kingdoms and Art.</description>
+		<url>www.geocities.com/empiresofill@sbcglobal.net</url>
+		<patchurl>http://mars.walagata.com/w/hopers2/empiretest.rar</patchurl>
+		<updateurl>http://mars.walagata.com/w/hopers2/staidx0.rar</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>havenforged.no-ip.info</address>
+		<port>2593</port>
+		<max_online>24</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>0</out>
+		<total_out>99</total_out>
+		<rank>184</rank>
+	</Shard>
+	<Shard id="527">
+		<status>ACTIVE</status>
+		<name>Ethernal Realms</name>
+		<description>Events, Customs, No Skill Cap, No PKs, Paintball, T1,4gb RAM</description>
+		<url>http://etherealrealms-uo.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>72.232.64.106</address>
+		<port>2593</port>
+		<max_online>83</max_online>
+		<cur_online>42</cur_online>
+		<avg_online>31</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>15</total_out>
+		<rank>185</rank>
+	</Shard>
+	<Shard id="433">
+		<status>ACTIVE</status>
+		<name>Silver Mist</name>
+		<description>Roleplay/PvM (No PvP), Actively staffed, a whole new world of customs.</description>
+		<url>http://twistedintel.net/TwistedReality/board/index.php</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>24.248.220.198</address>
+		<port>2593</port>
+		<max_online>2</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>5</total_votes>
+		<out>1</out>
+		<total_out>39</total_out>
+		<rank>186</rank>
+	</Shard>
+	<Shard id="507">
+		<status>ACTIVE</status>
+		<name>Tremoria</name>
+		<description>Deutscher Medium-Hardcore RP Shard basierend auf dem z.Zt. 180 Seiten umfassenden Tremoria-Kampagnenwelt Buch (freies reich bebildertes PDF) ( http://www.tremoria.eu/ ).
+8 feste Klassengilden, nur Menschen in zwei spielbaren V&ouml;lkern (vgl. &quot;Europ&auml;isches Mittelalter&quot; &quot;Arabisches W&uuml;stensetting&quot;), Low-Fantasy. Eher &auml;ltere Spieler und Projektmitarbeiter. Seit 2001 in Entwicklung.
+Komplett neu geschaffene Welt. Starker Fokus auf begleitetes Rollenspiel - trotzdem 24/7 online.</description>
+		<url>http://www.tremoria-freeshard.de</url>
+		<patchurl>http://tremoria-freeshard.de/pub/Gateway171105.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>GER</lang>
+		<remove_enc>1</remove_enc>
+		<razor>0</razor>
+		<address>server.tremoria.eu</address>
+		<port>2593</port>
+		<max_online>20</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>26</total_out>
+		<rank>187</rank>
+	</Shard>
+	<Shard id="491">
+		<status>ACTIVE</status>
+		<name>UO Alianza</name>
+		<description>El mejor shard Argentino para el mundo, eventos y script custom. Quest y mucho &eacute;nfasis en el buen PvP</description>
+		<url>http://www.red-alianza.com.ar</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>PvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>200.49.15.6</address>
+		<port>2593</port>
+		<max_online>56</max_online>
+		<cur_online>38</cur_online>
+		<avg_online>24</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>22</total_out>
+		<rank>188</rank>
+	</Shard>
+	<Shard id="496">
+		<status>DOWN</status>
+		<name>Darkmoor</name>
+		<description>2.0 AOS base, dedicated server. T1 connection. Custom monsters and arties. Special events and custom currency. Tokuno, Ilshenar, and Malas. No Trammel.</description>
+		<url>http://www.towerwebsites.com/landofzin</url>
+		<patchurl>http://www.thebumperguy.biz/hues.rar</patchurl>
+		<updateurl>hues</updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>208.42.194.85</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>17</total_out>
+		<rank>189</rank>
+	</Shard>
+	<Shard id="500">
+		<status>ACTIVE</status>
+		<name>Wragg Rebirth</name>
+		<description>Running RC1 Lots Of Custom Crafts Etc All Ilsh Dungeons Custom Spawned.8 Peerless Type Areas. Many Other Unique To RC1 Items.Friendly Players, Dedicated UK Based Server.</description>
+		<url>http://www.hectorthelegend.proboards82.com/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>81.157.70.41</address>
+		<port>2593</port>
+		<max_online>4</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>14</total_out>
+		<rank>190</rank>
+	</Shard>
+	<Shard id="167">
+		<status>DOWN</status>
+		<name>Path to Glory</name>
+		<description>1000 skillscap +5 every 5 days you keep acct active, 750 stat cap, fast gains, custom kingdom systems in the works - hiring players</description>
+		<url>http://67.77.123.217/phpbb2/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>67.77.123.217</address>
+		<port>2594</port>
+		<max_online>16</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>15</total_votes>
+		<out>2</out>
+		<total_out>88</total_out>
+		<rank>191</rank>
+	</Shard>
+	<Shard id="281">
+		<status>ACTIVE</status>
+		<name>Nocturne</name>
+		<description>Features a sensible world based on the T2A landmass, Player-versus-Player gameplay, encouraged Role-Playing, pet &quot;Evolution Dragons&quot;, multiple houses, special events, mature community, &quot;Age of Shadows&quot;-era races and classes (no Ninjas, Samurai, or Elves) and more!
+
+(Fast, dedicated server on a dedicated fiber optic connection with nearly 100% uptime.  Mature and fair staff.)</description>
+		<url>http://www.playnocturne.org</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>66.18.33.50</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>19</total_votes>
+		<out>1</out>
+		<total_out>54</total_out>
+		<rank>192</rank>
+	</Shard>
+	<Shard id="385">
+		<status>ACTIVE</status>
+		<name>Sosaria</name>
+		<description>Shard fran&ccedil;ais favorisant un Role play libre. Sosaria est un serveur &agrave; inscriptions automatiques qui a pour simple but de vous divertir. Le serveur est r&ocirc;le play et les r&egrave;gles sont tr&egrave;s simplistes.</description>
+		<url>www.sosaria.ca.cx</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>sosaria.game-server.cc</address>
+		<port>2593</port>
+		<max_online>12</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>3</out>
+		<total_out>37</total_out>
+		<rank>193</rank>
+	</Shard>
+	<Shard id="473">
+		<status>ACTIVE</status>
+		<name>Crystal Blue Persuasion</name>
+		<description>Family oriented shard,  no pking, no cussing.. Come enjoy our family closeness.</description>
+		<url>www.jimnpeg.net/CrystalBlue</url>
+		<patchurl>http://home.comcast.net/~jimnpeg/patches/hues.rar</patchurl>
+		<updateurl>http://home.comcast.net/~jimnpeg/patches/Edited.rar</updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.90.114.89</address>
+		<port>2593</port>
+		<max_online>13</max_online>
+		<cur_online>5</cur_online>
+		<avg_online>2</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>27</total_out>
+		<rank>194</rank>
+	</Shard>
+	<Shard id="232">
+		<status>ACTIVE</status>
+		<name>Atrium of Ruination Returns</name>
+		<description>1800 Skill cap, 600 Stat cap(200 each), Really Good Start Up Package, Lots of Addons, Customs, Quest,  And Lots More</description>
+		<url>http://p072.ezboard.com/batriumofruinationreturns</url>
+		<patchurl>http://avatarsandimages.com/atrium.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>67.79.146.206</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>0</out>
+		<total_out>47</total_out>
+		<rank>195</rank>
+	</Shard>
+	<Shard id="438">
+		<status>ACTIVE</status>
+		<name>projectblackrock</name>
+		<description>fun for all</description>
+		<url>http://www.projectblackrock.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>projectblackrock.servegame.org</address>
+		<port>2593</port>
+		<max_online>33</max_online>
+		<cur_online>10</cur_online>
+		<avg_online>17</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>5</out>
+		<total_out>30</total_out>
+		<rank>196</rank>
+	</Shard>
+	<Shard id="447">
+		<status>ACTIVE</status>
+		<name>Tamer Haven</name>
+		<description>RP, Geared towards the tamer/bard/craftsman.  Family shard.  Limited staff support. 3+ year old shard.</description>
+		<url>http://tamerhaven.com</url>
+		<patchurl>http://tamerhaven.com/muls/Patch.rar</patchurl>
+		<updateurl>Login screen graphic and a few hues.</updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>tamerhaven.com</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>23</total_out>
+		<rank>197</rank>
+	</Shard>
+	<Shard id="434">
+		<status>ACTIVE</status>
+		<name>Svr World 2.0</name>
+		<description>pvp,pvm, This is the 2.0 beta server for svr world</description>
+		<url>http://www3.telus.net/svr_world/2.0/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>svr-world.no-ip.info</address>
+		<port>2592</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>25</total_out>
+		<rank>198</rank>
+	</Shard>
+	<Shard id="431">
+		<status>ACTIVE</status>
+		<name>The Wild</name>
+		<description>Cutting edge RunUO 2.0 shard.  Stable.  Fun.  Free!  2000.0 point skill cap, 300 point stat cap.  TONS of custom content.</description>
+		<url>http://www.pkunk.net/TheWild</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>pkunk.homeip.net</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>22</total_out>
+		<rank>199</rank>
+	</Shard>
+	<Shard id="404">
+		<status>ACTIVE</status>
+		<name>RealWorld</name>
+		<description>Shard qui a pour but de se d&eacute;tendre dans un monde r&eacute;aliste</description>
+		<url>www.realworld2.be</url>
+		<patchurl>http://users.skynet.be/bgc/divers/download/realworld/PatchRealWorldV20.rar</patchurl>
+		<updateurl>Patch 20 reprenant les patchs pr&eacute;c&eacute;dents</updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>1</razor>
+		<address>elessarrw.dynalias.com</address>
+		<port>2593</port>
+		<max_online>30</max_online>
+		<cur_online>8</cur_online>
+		<avg_online>6</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>2</out>
+		<total_out>29</total_out>
+		<rank>200</rank>
+	</Shard>
+	<Shard id="163">
+		<status>ACTIVE</status>
+		<name>Garrison Empire Shard</name>
+		<description>So you want to be a Hero? Come check out this wonderful custom shard. We have new monsters, new armors too many to list. Private shard now open to the public. Fast connection and dual xion fast server. Open 24/7, must read details on website.</description>
+		<url>http://www.darkgarrison.org/garrisonempire</url>
+		<patchurl>http://www.darkgarrison.org/garrisonempire/empirepatchb.rar</patchurl>
+		<updateurl>http://www.darkgarrison.org/garrisonempire</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>gempire.no-ip.org</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>3</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>4</total_votes>
+		<out>1</out>
+		<total_out>43</total_out>
+		<rank>201</rank>
+	</Shard>
+	<Shard id="423">
+		<status>DOWN</status>
+		<name>Andaria Reborn</name>
+		<description>Custom UO sahrds, ML and SE</description>
+		<url>http://andaria.nsn3.net/</url>
+		<patchurl>http://andaria.nsn3.net/pub/connectuo/connect.rar</patchurl>
+		<updateurl>http://andaria.nsn3.net/pub/connectuo/connect.rar</updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>MULTI</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>eternal.nsn3.net</address>
+		<port>20090</port>
+		<max_online>8</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>1</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>3</out>
+		<total_out>24</total_out>
+		<rank>202</rank>
+	</Shard>
+	<Shard id="408">
+		<status>ACTIVE</status>
+		<name>Lords of UO</name>
+		<description>No Skill Cap, Lots of Customs, NO Regs, Race Gates, Evo's , Skill/Stat Gates... Can Raise Skills Past 100 w/o PS's... A Hidden 150 Skill Cap Gate.... And More!!</description>
+		<url>http://www.lordsofuo.co.nr</url>
+		<patchurl>http://www.mydatabus.com/public/uopatch/z/patch.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.180.107.139</address>
+		<port>2593</port>
+		<max_online>21</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>33</total_out>
+		<rank>203</rank>
+	</Shard>
+	<Shard id="390">
+		<status>ACTIVE</status>
+		<name>Svr World</name>
+		<description>pvp,pvm,no skill cap,big casino and tons of quests tons more</description>
+		<url>http://www3.telus.net/svr_world/</url>
+		<patchurl>http://www3.telus.net/svr_world/files/patches.rar</patchurl>
+		<updateurl>You will need these to see many of the customs on the shard like quest room</updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>svr-world.no-ip.info</address>
+		<port>2593</port>
+		<max_online>6</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>28</total_out>
+		<rank>204</rank>
+	</Shard>
+	<Shard id="378">
+		<status>ACTIVE</status>
+		<name>Echos in the Valley</name>
+		<description>Hidden150SkillCapGateArtWorkManyQuests</description>
+		<url>echosinthevalley.com</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>71.197.66.33</address>
+		<port>2593</port>
+		<max_online>14</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>0</out>
+		<total_out>30</total_out>
+		<rank>205</rank>
+	</Shard>
+	<Shard id="381">
+		<status>ACTIVE</status>
+		<name>Bustys Bazaar</name>
+		<description>Over 500 hours of dev in this shard. Enjoy! See website for full details.</description>
+		<url>http://angelfire.com/dragon2/busty</url>
+		<patchurl>http://angelfire.com/dragon2/busty/images/Cliloc.rar</patchurl>
+		<updateurl></updateurl>
+		<era>SE</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>busty.servegame.com</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>3</out>
+		<total_out>49</total_out>
+		<rank>206</rank>
+	</Shard>
+	<Shard id="354">
+		<status>ACTIVE</status>
+		<name>Devine Intervention</name>
+		<description>Currently building. A relaxed roleplay shard with lots of the usual features and some new ones.</description>
+		<url>www.devineintervention.info</url>
+		<patchurl>http://www.devineintervention.info/downloads/Devine1.txt</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>devineintervention.no-ip.org</address>
+		<port>2593</port>
+		<max_online>5</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>26</total_out>
+		<rank>207</rank>
+	</Shard>
+	<Shard id="347">
+		<status>DOWN</status>
+		<name>The World</name>
+		<description>The World isa  game in a anime series called .hack//DUSK and roleplay its characters</description>
+		<url>http:lordbalmung.10.forumer.com/</url>
+		<patchurl>http://www.snapdrive.net/files/305901/gumpidx.rar</patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>75.74.249.158</address>
+		<port>2593</port>
+		<max_online>11</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>30</total_out>
+		<rank>208</rank>
+	</Shard>
+	<Shard id="234">
+		<status>ACTIVE</status>
+		<name>PortKar Gor</name>
+		<description>The Original Gorean rp shard. Shard is 4yrs old. 4 houses, pvp is invited when part of roleplay. Custom maps w/UOAM support.</description>
+		<url>http://www.uoportkar.org/</url>
+		<patchurl>http://uoportkar.org/Patches/CUO1b.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>67.67.191.41</address>
+		<port>2595</port>
+		<max_online>37</max_online>
+		<cur_online>7</cur_online>
+		<avg_online>6</avg_online>
+		<votes>0</votes>
+		<total_votes>8</total_votes>
+		<out>1</out>
+		<total_out>44</total_out>
+		<rank>209</rank>
+	</Shard>
+	<Shard id="323">
+		<status>ACTIVE</status>
+		<name>Oregons Server</name>
+		<description>**mondains lagacy** We have casino, Pk in Malas,Ish,Fel 250 stat max and 7200 skill max (Not Hiring)</description>
+		<url>http://www.freewebs.com/oregonshard/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>216.134.160.236</address>
+		<port>2593</port>
+		<max_online>7</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>53</total_out>
+		<rank>210</rank>
+	</Shard>
+	<Shard id="316">
+		<status>ACTIVE</status>
+		<name>Gamers Zeus</name>
+		<description>Gamers Network oyun sunuculari</description>
+		<url>http://www.gamers.gen.tr</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>TUR</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>88.247.205.177</address>
+		<port>2597</port>
+		<max_online>36</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>1</out>
+		<total_out>29</total_out>
+		<rank>211</rank>
+	</Shard>
+	<Shard id="320">
+		<status>ACTIVE</status>
+		<name>Radio Ultimate</name>
+		<description>Run by our Internet Radio Station, Radio Ultimate is a place for players to hang out and meet eachother, we have forums, we have lots of quests, it's just a great place to be</description>
+		<url>http://www.wftpradio.net/</url>
+		<patchurl>http://www.rm-r.net/~seana/patch01.rar</patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>0</remove_enc>
+		<razor>0</razor>
+		<address>wftpradio.dyndns.org</address>
+		<port>2593</port>
+		<max_online>13</max_online>
+		<cur_online>4</cur_online>
+		<avg_online>2</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>28</total_out>
+		<rank>212</rank>
+	</Shard>
+	<Shard id="244">
+		<status>ACTIVE</status>
+		<name>Inipi Freeshard Project</name>
+		<description>NO TRAM, PK'ers welcome! AOS, SE+ML. Relaxed atmosphere. Friendly+professional staff. custom scripts</description>
+		<url>http://uo.inipi.org/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>shard.inipi.org</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>22</total_out>
+		<rank>213</rank>
+	</Shard>
+	<Shard id="250">
+		<status>ACTIVE</status>
+		<name>Legends of Old</name>
+		<description>OSI-style server. 2D, 3D, UOR, LBR, AOS, SE, ML supported. RunUO powered. Spawned world - 7day auto-account. Trammel and Felucca PvP ruleset's. Mature atmosphere. Online continuously since July 2003!</description>
+		<url>http://www.fttguild.com/legends/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>legends.bounceme.net</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>42</total_out>
+		<rank>214</rank>
+	</Shard>
+	<Shard id="136">
+		<status>ACTIVE</status>
+		<name>New Dawn: Second Sun</name>
+		<description>The long wait is finally over, New Dawn: Second Sun has arrived.</description>
+		<url>http://ndn.cyberhog.co.uk</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>cyberhog.servebeer.com</address>
+		<port>2595</port>
+		<max_online>6</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>44</total_out>
+		<rank>215</rank>
+	</Shard>
+	<Shard id="168">
+		<status>ACTIVE</status>
+		<name>Cry of the Wolf</name>
+		<description>We are back, Non-pvp, All Welcome, Have fun with friends</description>
+		<url>http://home.twcny.rr.com/dreamrunner/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>24.58.130.204</address>
+		<port>2593</port>
+		<max_online>12</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>1</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>3</out>
+		<total_out>83</total_out>
+		<rank>216</rank>
+	</Shard>
+	<Shard id="211">
+		<status>ACTIVE</status>
+		<name>forgotten mythology</name>
+		<description>Family Shard pvm and some pvp</description>
+		<url>www.forgottenmythology.zoomshare.com</url>
+		<patchurl>http://forgottenmythology.zoomshare.com/files/hues.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>69.27.213.138</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>27</total_out>
+		<rank>217</rank>
+	</Shard>
+	<Shard id="215">
+		<status>DOWN</status>
+		<name>Temptations</name>
+		<description>Enforced Role Playing, Players build the towns,
+Government and town war systems, Challenge games for pvp,  *Removed from Shard = (stealing skill, arties, mage weapons, npc vendors)</description>
+		<url>http://temptationsofultima.com/</url>
+		<patchurl>http://bullnutradio.com/temptations/temps2.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>65.40.35.48</address>
+		<port>2595</port>
+		<max_online>12</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>2</out>
+		<total_out>34</total_out>
+		<rank>218</rank>
+	</Shard>
+	<Shard id="174">
+		<status>ACTIVE</status>
+		<name>SecretsOfClones</name>
+		<description>RP, PvM, and some PvP many unique things.
+custom art, custom scripts, faction and races, guild idols and many more things.</description>
+		<url>http://www.freewebs.com/pimpgump69/</url>
+		<patchurl>http://www.freewebs.com/pimpgump69/Patch/ConnectuoPatch.rar</patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>SecretsOfClones.kicks-ass.org</address>
+		<port>2593</port>
+		<max_online>9</max_online>
+		<cur_online>1</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>1</total_votes>
+		<out>1</out>
+		<total_out>55</total_out>
+		<rank>219</rank>
+	</Shard>
+	<Shard id="164">
+		<status>ACTIVE</status>
+		<name>Elohim Reborn</name>
+		<description>1000/skill, 300/stat caps, 4 gm skills to start. Custom ores, woods, leathers, quests.</description>
+		<url>http://geocities.com/lafever2004/Elohim_Reborn</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>CUSTOM</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>24.11.82.198</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>69</total_out>
+		<rank>220</rank>
+	</Shard>
+	<Shard id="61">
+		<status>DOWN</status>
+		<name>Silverblade</name>
+		<description>osi styled server</description>
+		<url>http://www.silverbladeuo.net</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>ML</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>70.246.116.135</address>
+		<port>2595</port>
+		<max_online>6</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>58</total_out>
+		<rank>221</rank>
+	</Shard>
+	<Shard id="79">
+		<status>ACTIVE</status>
+		<name>Geisha-Harakiri Shard</name>
+		<description>Peaceful Shard.
+for Crafter,I think this Shard may be Confortable.
+
+Join us :D</description>
+		<url>http://geishaharakiri.dnsdojo.net/</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>AOS</era>
+		<type>RPPvP</type>
+		<lang>JAP</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>geishaharakiri.dnsdojo.net</address>
+		<port>2593</port>
+		<max_online>3</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>1</out>
+		<total_out>64</total_out>
+		<rank>222</rank>
+	</Shard>
+	<Shard id="81">
+		<status>DOWN</status>
+		<name>GM Sanctuary</name>
+		<description>All GM Shard!
+
+Everyone is a GameMaster, free to build to your hearts content!
+
+http://GMSanctuary.forumup.org</description>
+		<url>http://GMSanctuary.forumup.org</url>
+		<patchurl></patchurl>
+		<updateurl></updateurl>
+		<era>UOR</era>
+		<type>RPPvP</type>
+		<lang>ENG</lang>
+		<remove_enc>1</remove_enc>
+		<razor>1</razor>
+		<address>gmsanctuary.servegame.com</address>
+		<port>2593</port>
+		<max_online>30</max_online>
+		<cur_online>0</cur_online>
+		<avg_online>0</avg_online>
+		<votes>0</votes>
+		<total_votes>0</total_votes>
+		<out>8</out>
+		<total_out>106</total_out>
+		<rank>223</rank>
+	</Shard>
+</Shards>

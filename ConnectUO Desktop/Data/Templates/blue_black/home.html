@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>ConnectUO Desktop - Home</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="header"><img align="bottom" src="images/logo.png" width="404" height="58" /><img src="/images/cuoicon.png" width="110" height="96" /></div>
+<div class="menu">
+	<div align="right">
+	  <span><a href="http://localhost.:1980/home.html">HOME</a> | <a href="http://localhost.:1980/favorites.html">FAVORITES</a> | <a href=http://localhost.:1980/help.html">HELP</a></span>
+  </div>
+</div>
+<div class="list">
+<div><%                     
+				Echo(GetSortForm());
+			%></div>
+<div>&nbsp;</div>
+<div><%
+			    string pageData = "";
+				int total = ServerList.PublicServerList.Count;
+				int perPage = AppSettings.Current.Get<int>("ServersPerPage");
+				int pages = total / perPage;
+
+				int pg;
+				string pageString = RequestData("page");
+
+				if (pageString.Length == 0 || !int.TryParse(pageString, out pg))
+					pg = 1;
+
+				if (pg != 0)
+					pg--;
+
+				int count = Math.Min(total - pg * perPage, perPage);
+
+				if (total % perPage > 0)
+					pages++;
+
+				string pageText = "";
+
+				for (int i = 0; i < pages; i++)
+				{
+					int maxToShow = Math.Min(total - i * perPage, perPage);
+					int one = i * perPage + 1;
+					int two = one + maxToShow - 1;
+
+					if (i != pg)
+						pageText += String.Format(" <a href=\"http://localhost.:1980/home.html?{0}\">{1}</a>{2}",
+							_getDataString.Contains("page=") ? _getDataString.Replace( "page=" + pageString, "page=" + ((int)i+1).ToString() ) : "page=" + ((int)i+1).ToString() + "&" + _getDataString, (
+							String.Format("[{0} - {1}]", one, two)),
+							i + 1 == pages ? "" : " ");
+					else
+					{
+						pageText += String.Format("[{0} - {1}]{2}", one, two, i + 1 == pages ? "" : " ");
+					}
+				}			
+				
+				Echo(pageText);
+			%>	</div>
+<div>&nbsp;</div>
+<%	 				
+				int max = pg * perPage + count;
+				
+				for (int i = pg * perPage; i < max; i++)
+				{
+					IEntry entry = ServerList.PublicServerList[i];
+
+					string row = Templates.CurrentTemplate.GetPage("row.html");
+					
+                    Replace(ref row, "~REQPATCHING~", string.IsNullOrEmpty(entry.PatchUrl) ? "" : "*");                                                
+					Replace(ref row, "%BANNER%", entry.Banner);
+					Replace(ref row, "%SERVERNAME%", entry.Name);
+					Replace(ref row, "%DESCRIPTION%", entry.Description);
+					Replace(ref row, "%MOREINFOLINK%", entry.MoreInfoLink);
+					Replace(ref row, "%ADDTOFAVORITESLINK%", entry.AddToFavoritesLink);
+					Replace(ref row, "%PLAYLINK%", entry.PlayLink);
+					Replace(ref row, "%WEBSITELINK%", entry.WebsiteLink);
+					Replace(ref row, "%TYPE%", entry.Type);
+					Replace(ref row, "%ERA%", entry.Era);
+					Replace(ref row, "%LANG%", entry.Lang);
+					Replace(ref row, "%ONLINE%", entry.CurOnline);
+					Replace(ref row, "%AVG%", entry.AvgOnline);
+					Replace(ref row, "%PEAK%", entry.MaxOnline);
+					Replace(ref row, "%RANK%", entry.Rank);
+					Replace(ref row, "%VOTES%", entry.Votes);
+					Replace(ref row, "%TOTALVOTES%", entry.TotalVotes);
+					Replace(ref row, "%OUT%", entry.Out);
+					Replace(ref row, "%TOTALOUT%", entry.TotalOut);
+					Replace(ref row, "%VOTELINK%", entry.VoteLink);
+					Replace(ref row, "%STATUS%", entry.Status ? "images/statusup.png" : "images/statusdown.png");
+					Replace(ref row, "%1DAYGRAPH%", entry.OneDayGraph);
+					Replace(ref row, "%7DAYGRAPH%", entry.SevenDayGraph);
+					Replace(ref row, "%14DAYGRAPH%", entry.FourteenDayGraph);
+					Replace(ref row, "%30DAYGRAPH%", entry.ThirtyDayGraph);
+					Replace(ref row, "%180DAYGRAPH%", entry.OneEightDayGraph);
+					Replace(ref row, "%365DAYGRAPH%", entry.YearDayGraph);
+
+					pageData += row;
+				}	
+				
+				Echo(pageData);		
+			%>
+</div>
+</body>
+</html>

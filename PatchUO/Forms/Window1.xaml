@@ -1,0 +1,13 @@
+﻿<Window x:Class="PatchUO.Forms.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="PatchUO.Forms" Height="374" Width="522" RenderOptions.BitmapScalingMode="HighQuality" RenderOptions.EdgeMode="Aliased" WindowStyle="ThreeDBorderWindow">
+    <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="0.643968871595331*" />
+      <ColumnDefinition Width="0*" />
+      <ColumnDefinition Width="0*" />
+      <ColumnDefinition Width="0.356031128404669*" />
+    </Grid.ColumnDefinitions>
+  </Grid>
+</Window>

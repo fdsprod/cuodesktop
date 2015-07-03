@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>ConnectUO Desktop - Favorites</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="header"><img align="bottom" src="images/logo.png" width="404" height="58" /><img src="/images/cuoicon.png" width="110" height="96" /></div>
+<div class="menu">
+	<div align="right">
+	  <span>
+	  <a href="http://localhost.:1980/home.html">HOME</a> | 
+	  <a href="http://localhost.:1980/favorites.html">FAVORITES</a> | 
+	  <a href="http://localhost.:1980/help.html">HELP</a></span>
+  </div>
+</div>
+<div class="list">
+	<%
+			    List<IEntry> allEntries = new List<IEntry>();
+				allEntries.AddRange((IEntry[])Favorites.Customs.ToArray());
+				allEntries.AddRange((IEntry[])Favorites.MyFavorites.ToArray());
+
+				if( allEntries.Count == 0 )
+					Echo("No Favorites");
+				else
+				{
+					for( int i = 0; i < allEntries.Count; i++ )
+					{
+						IEntry entry = allEntries[i];
+
+						string row = Templates.CurrentTemplate.GetPage("row.html");
+
+                    Replace(ref row, "~REQPATCHING~", string.IsNullOrEmpty(entry.PatchUrl) ? "" : "*"); 
+						Replace(ref row, "%BANNER%", entry.Banner);
+						Replace(ref row, "%SERVERNAME%", entry.Name);
+						Replace(ref row, "%DESCRIPTION%", entry.Description);
+						Replace(ref row, "%MOREINFOLINK%", entry.MoreInfoLink);						
+						Replace(ref row, "%ADDTOFAVORITESLINK%", "http://localhost.:1980/removefavorite?id=" + entry.Id);
+						Replace(ref row, "ADD TO FAVORITES", "REMOVE FROM FAVORITES");
+						Replace(ref row, "%PLAYLINK%", entry.PlayLink);
+						Replace(ref row, "%WEBSITELINK%", entry.WebsiteLink);
+						Replace(ref row, "%TYPE%", entry.Type);
+						Replace(ref row, "%ERA%", entry.Era);
+						Replace(ref row, "%LANG%", entry.Lang);
+						Replace(ref row, "%ONLINE%", entry.CurOnline);
+						Replace(ref row, "%AVG%", entry.AvgOnline);
+						Replace(ref row, "%PEAK%", entry.MaxOnline);
+						Replace(ref row, "%RANK%", entry.Rank);
+						Replace(ref row, "%VOTES%", entry.Votes);
+						Replace(ref row, "%TOTALVOTES%", entry.TotalVotes);
+						Replace(ref row, "%OUT%", entry.Out);
+						Replace(ref row, "%TOTALOUT%", entry.TotalOut);
+						Replace(ref row, "%VOTELINK%", entry.VoteLink);
+						Replace(ref row, "%STATUS%", entry.Status ? "images/statusup.png" : "images/statusdown.png");
+						Replace(ref row, "%1DAYGRAPH%", entry.OneDayGraph);
+						Replace(ref row, "%7DAYGRAPH%", entry.SevenDayGraph);
+						Replace(ref row, "%14DAYGRAPH%", entry.FourteenDayGraph);
+						Replace(ref row, "%30DAYGRAPH%", entry.ThirtyDayGraph);
+						Replace(ref row, "%180DAYGRAPH%", entry.OneEightDayGraph);
+						Replace(ref row, "%365DAYGRAPH%", entry.YearDayGraph);
+
+						if( entry is CustomEntry )
+						{
+							Replace(ref row, "MORE INFO", "EDIT");
+							Replace(ref row, "VOTE", "");
+							Replace(ref row, "WEBSITE", "");
+						}
+
+                        Echo(row);						
+					}					
+				}
+			 %>
+</div>
+</body>
+</html>
